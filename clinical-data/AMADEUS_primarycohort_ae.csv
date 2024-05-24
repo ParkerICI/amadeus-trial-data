@@ -1,0 +1,917 @@
+subject.id,manuscript.id,arm,treatment,tumor.type,ae.coded.perferred.term,ae.coded.soc,study.day.start,study.day.end,ae.severity,ae.serious,immune.related.ae,ae.relationship.to.nivolumab,ae.relationship.to.ipilimumab,ae.outcome,coding.dictionary
+101-0001,001,CD8 LOW,Nivolumab + Ipilimumab,Pancreatic carcinoma,Nausea,Gastrointestinal disorders,1,NA,Grade 2,No,No,Unlikely,Unlikely,Recovering or Resolving,MedDRA 25.0
+101-0001,001,CD8 LOW,Nivolumab + Ipilimumab,Pancreatic carcinoma,Fatigue,General disorders and administration site conditions,2,NA,Grade 2,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+101-0001,001,CD8 LOW,Nivolumab + Ipilimumab,Pancreatic carcinoma,Pyrexia,General disorders and administration site conditions,2,17,Grade 1,No,No,Possibly,Probably,Recovered or Resolved,MedDRA 25.0
+101-0001,001,CD8 LOW,Nivolumab + Ipilimumab,Pancreatic carcinoma,Biliary obstruction,Hepatobiliary disorders,8,NA,Grade 3,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+101-0001,001,CD8 LOW,Nivolumab + Ipilimumab,Pancreatic carcinoma,Gastrointestinal viral infection,Infections and infestations,20,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+101-0003,002,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Pruritus,Skin and subcutaneous tissue disorders,8,NA,Grade 1,No,Yes,Probably,Probably,Not Recovered or Not Resolved,MedDRA 25.0
+101-0003,002,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Muscle spasms,Musculoskeletal and connective tissue disorders,12,NA,Grade 1,No,No,Unlikely,Unlikely,Not Recovered or Not Resolved,MedDRA 25.0
+101-0003,002,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Dry mouth,Gastrointestinal disorders,50,NA,Grade 1,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+101-0003,002,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Fatigue,General disorders and administration site conditions,64,146,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0004,003,CD8 LOW,Nivolumab + Ipilimumab,Cervix cancer metastatic,Sepsis,Infections and infestations,17,25,Grade 3,Yes,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0004,003,CD8 LOW,Nivolumab + Ipilimumab,Cervix cancer metastatic,Pruritus,Skin and subcutaneous tissue disorders,48,76,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+101-0004,003,CD8 LOW,Nivolumab + Ipilimumab,Cervix cancer metastatic,Rash maculo-papular,Skin and subcutaneous tissue disorders,48,51,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+101-0004,003,CD8 LOW,Nivolumab + Ipilimumab,Cervix cancer metastatic,Hypertension,Vascular disorders,55,72,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0004,003,CD8 LOW,Nivolumab + Ipilimumab,Cervix cancer metastatic,Hypertension,Vascular disorders,73,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+101-0006,005,CD8 LOW,Nivolumab + Ipilimumab,Pancreatic carcinoma,Diarrhoea,Gastrointestinal disorders,1,NA,Grade 1,No,Yes,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+101-0006,005,CD8 LOW,Nivolumab + Ipilimumab,Pancreatic carcinoma,Oral pain,Gastrointestinal disorders,11,133,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0006,005,CD8 LOW,Nivolumab + Ipilimumab,Pancreatic carcinoma,Dyspepsia,Gastrointestinal disorders,19,48,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0006,005,CD8 LOW,Nivolumab + Ipilimumab,Pancreatic carcinoma,Back pain,Musculoskeletal and connective tissue disorders,33,NA,Grade 1,No,No,Unlikely,Unlikely,Not Recovered or Not Resolved,MedDRA 25.0
+101-0006,005,CD8 LOW,Nivolumab + Ipilimumab,Pancreatic carcinoma,Lower gastrointestinal haemorrhage,Gastrointestinal disorders,41,55,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+101-0006,005,CD8 LOW,Nivolumab + Ipilimumab,Pancreatic carcinoma,Tooth infection,Infections and infestations,67,124,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0007,006,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Fatigue,General disorders and administration site conditions,42,126,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+101-0007,006,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Myalgia,Musculoskeletal and connective tissue disorders,62,96,Grade 2,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+101-0007,006,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Ataxia,Nervous system disorders,94,NA,Grade 2,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+101-0007,006,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Back pain,Musculoskeletal and connective tissue disorders,94,97,Grade 3,Yes,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+101-0007,006,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Hemiparesis,Nervous system disorders,94,NA,Grade 2,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+101-0007,006,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Vision blurred,Eye disorders,94,111,Grade 1,Yes,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+101-0007,006,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Constipation,Gastrointestinal disorders,96,NA,Grade 2,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+101-0007,006,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Fatigue,General disorders and administration site conditions,127,NA,Grade 2,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+101-0007,006,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Myalgia,Musculoskeletal and connective tissue disorders,157,NA,Grade 2,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Diarrhoea,Gastrointestinal disorders,2,2,Grade 2,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Fatigue,General disorders and administration site conditions,4,12,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved with Sequelae,MedDRA 25.0
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Insomnia,Psychiatric disorders,5,61,Grade 2,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Pyrexia,General disorders and administration site conditions,9,10,Grade 2,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Oedema peripheral,General disorders and administration site conditions,10,NA,Grade 1,No,No,Unlikely,Unlikely,Recovering or Resolving,MedDRA 25.0
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Confusional state,Psychiatric disorders,13,14,Grade 2,Yes,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Fatigue,General disorders and administration site conditions,13,14,Grade 3,Yes,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Pruritus,Skin and subcutaneous tissue disorders,44,62,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved with Sequelae,MedDRA 25.0
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Insomnia,Psychiatric disorders,62,NA,Grade 1,No,No,Unlikely,Unlikely,Recovering or Resolving,MedDRA 25.0
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Constipation,Gastrointestinal disorders,65,NA,Grade 1,No,No,Unlikely,Unlikely,Recovering or Resolving,MedDRA 25.0
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Pruritus,Skin and subcutaneous tissue disorders,65,225,Grade 1,No,Yes,Probably,Probably,Recovered or Resolved,MedDRA 25.0
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Eye swelling,Eye disorders,84,94,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Alopecia,Skin and subcutaneous tissue disorders,85,NA,Grade 1,No,No,Possibly,Possibly,Recovering or Resolving,MedDRA 25.0
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Herpes zoster,Infections and infestations,134,225,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved with Sequelae,MedDRA 25.0
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Anosmia,Nervous system disorders,137,NA,Grade 1,No,No,Possibly,Possibly,Recovering or Resolving,MedDRA 25.0
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Hypothyroidism,Endocrine disorders,141,NA,Grade 2,No,Yes,Definitely,Definitely,Not Recovered or Not Resolved,MedDRA 25.0
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Herpes zoster,Infections and infestations,225,253,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Peripheral sensory neuropathy,Nervous system disorders,225,NA,Grade 2,No,No,Possibly,Possibly,Recovering or Resolving,MedDRA 25.0
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Skin hyperpigmentation,Skin and subcutaneous tissue disorders,281,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Pyrexia,General disorders and administration site conditions,366,367,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Headache,Nervous system disorders,391,394,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Rash maculo-papular,Skin and subcutaneous tissue disorders,497,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,COVID-19,Infections and infestations,513,527,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Headache,Nervous system disorders,518,519,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Hypotension,Vascular disorders,538,NA,Grade 1,No,No,Unlikely,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Headache,Nervous system disorders,559,602,Grade 1,No,No,Unlikely,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Diarrhoea,Gastrointestinal disorders,617,621,Grade 2,No,Yes,Possibly,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Dizziness,Nervous system disorders,678,741,Grade 1,No,No,Unlikely,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0010,008,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Cough,"Respiratory, thoracic and mediastinal disorders",1,131,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0010,008,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Fatigue,General disorders and administration site conditions,4,NA,Grade 1,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+101-0010,008,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Constipation,Gastrointestinal disorders,5,688,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+101-0010,008,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Rhinitis allergic,"Respiratory, thoracic and mediastinal disorders",6,131,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0010,008,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Syncope,Nervous system disorders,23,23,Grade 2,No,No,Possibly,Unlikely,Recovered or Resolved,MedDRA 25.0
+101-0010,008,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Urinary tract infection,Infections and infestations,56,63,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0010,008,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Back pain,Musculoskeletal and connective tissue disorders,70,70,Grade 1,No,No,Possibly,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0010,008,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Cholecystitis,Hepatobiliary disorders,104,114,Grade 4,Yes,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0010,008,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Nasal congestion,"Respiratory, thoracic and mediastinal disorders",131,135,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+101-0010,008,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Urinary tract infection,Infections and infestations,131,131,Grade 2,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+101-0010,008,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Chromaturia,Renal and urinary disorders,132,149,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+101-0010,008,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Nasal congestion,"Respiratory, thoracic and mediastinal disorders",282,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+101-0010,008,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Seasonal allergy,Immune system disorders,282,NA,Grade 2,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+101-0010,008,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Arthralgia,Musculoskeletal and connective tissue disorders,474,618,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+101-0010,008,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Hypertension,Vascular disorders,477,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+101-0010,008,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Neck pain,Musculoskeletal and connective tissue disorders,481,586,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+101-0010,008,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Sinusitis,Infections and infestations,588,592,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0010,008,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Flatulence,Gastrointestinal disorders,682,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+101-0010,008,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Nausea,Gastrointestinal disorders,682,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+101-0010,008,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Constipation,Gastrointestinal disorders,688,690,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0010,008,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Constipation,Gastrointestinal disorders,691,NA,Grade 1,No,No,Unlikely,Unlikely,Recovering or Resolving,MedDRA 25.0
+101-0010,008,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Sinusitis,Infections and infestations,809,834,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0010,008,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Oropharyngeal pain,"Respiratory, thoracic and mediastinal disorders",848,863,Grade 2,No,No,Unrelated,Not Applicable,Recovered or Resolved,MedDRA 25.0
+101-0010,008,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Dysuria,Renal and urinary disorders,1073,1082,Grade 1,No,No,Unrelated,Not Applicable,Recovered or Resolved,MedDRA 25.0
+101-0010,008,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Atrial fibrillation,Cardiac disorders,1076,NA,Grade 2,No,No,Unlikely,Not Applicable,Not Recovered or Not Resolved,MedDRA 25.0
+101-0010,008,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Urinary retention,Renal and urinary disorders,1076,1082,Grade 2,No,No,Unrelated,Not Applicable,Recovered or Resolved,MedDRA 25.0
+101-0010,008,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Oedema peripheral,General disorders and administration site conditions,1114,1141,Grade 1,No,No,Unrelated,Not Applicable,Recovered or Resolved,MedDRA 25.0
+101-0010,008,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Fatigue,General disorders and administration site conditions,1143,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+101-0011,009,CD8 LOW,Nivolumab + Ipilimumab,Breast cancer,Arthralgia,Musculoskeletal and connective tissue disorders,3,4,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+101-0011,009,CD8 LOW,Nivolumab + Ipilimumab,Breast cancer,Diarrhoea,Gastrointestinal disorders,8,55,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+101-0011,009,CD8 LOW,Nivolumab + Ipilimumab,Breast cancer,Abdominal pain,Gastrointestinal disorders,33,55,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0011,009,CD8 LOW,Nivolumab + Ipilimumab,Breast cancer,Pruritus,Skin and subcutaneous tissue disorders,39,60,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+101-0011,009,CD8 LOW,Nivolumab + Ipilimumab,Breast cancer,Rash maculo-papular,Skin and subcutaneous tissue disorders,39,60,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+101-0013,010,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Night sweats,Skin and subcutaneous tissue disorders,1,2,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+101-0013,010,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Chills,General disorders and administration site conditions,22,24,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+101-0013,010,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Hot flush,Vascular disorders,22,29,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+101-0013,010,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Depression,Psychiatric disorders,43,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+101-0015,011,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Diarrhoea,Gastrointestinal disorders,-5,76,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0015,011,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Gastrointestinal bacterial infection,Infections and infestations,7,NA,Grade 2,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+101-0015,011,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Abdominal pain,Gastrointestinal disorders,15,15,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0015,011,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Abdominal pain,Gastrointestinal disorders,16,NA,Grade 2,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+101-0015,011,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Diarrhoea,Gastrointestinal disorders,19,23,Grade 3,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+101-0015,011,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Hypokalaemia,Metabolism and nutrition disorders,19,23,Grade 3,Yes,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0015,011,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Nausea,Gastrointestinal disorders,19,23,Grade 3,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+101-0015,011,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Large intestinal obstruction,Gastrointestinal disorders,20,23,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0015,011,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Vaginal infection,Infections and infestations,54,56,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0015,011,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Insomnia,Psychiatric disorders,75,NA,Grade 1,No,No,Unlikely,Unlikely,Recovering or Resolving,MedDRA 25.0
+101-0015,011,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Constipation,Gastrointestinal disorders,76,78,Grade 3,Yes,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0015,011,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Nausea,Gastrointestinal disorders,76,78,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0015,011,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Vomiting,Gastrointestinal disorders,76,77,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0015,011,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Constipation,Gastrointestinal disorders,78,NA,Grade 2,No,No,Unlikely,Unlikely,Recovering or Resolving,MedDRA 25.0
+101-0015,011,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Headache,Nervous system disorders,86,87,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0015,011,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Adrenal insufficiency,Endocrine disorders,96,NA,Grade 2,No,Yes,Definitely,Definitely,Recovering or Resolving,MedDRA 25.0
+101-0015,011,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Hypophysitis,Endocrine disorders,96,99,Grade 3,Yes,Yes,Definitely,Definitely,Recovered or Resolved with Sequelae,MedDRA 25.0
+101-0015,011,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Hypothyroidism,Endocrine disorders,96,NA,Grade 2,No,Yes,Definitely,Definitely,Recovering or Resolving,MedDRA 25.0
+101-0015,011,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Hypophysitis,Endocrine disorders,100,NA,Grade 2,No,Yes,Definitely,Definitely,Recovering or Resolving,MedDRA 25.0
+101-0015,011,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Anal incontinence,Gastrointestinal disorders,117,NA,Grade 2,No,No,Unlikely,Unlikely,Recovering or Resolving,MedDRA 25.0
+101-0017,073,CD8 HIGH,Nivolumab,Ovarian cancer,Pruritus,Skin and subcutaneous tissue disorders,4,254,Grade 1,No,Yes,Possibly,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0017,073,CD8 HIGH,Nivolumab,Ovarian cancer,Gastrooesophageal reflux disease,Gastrointestinal disorders,126,254,Grade 2,No,No,Unrelated,Not Applicable,Recovered or Resolved,MedDRA 25.0
+101-0017,073,CD8 HIGH,Nivolumab,Ovarian cancer,Decreased appetite,Metabolism and nutrition disorders,144,254,Grade 1,No,No,Possibly,Not Applicable,Recovered or Resolved,MedDRA 25.0
+101-0017,073,CD8 HIGH,Nivolumab,Ovarian cancer,Embolism,Vascular disorders,144,NA,Grade 2,No,No,Unrelated,Not Applicable,Not Recovered or Not Resolved,MedDRA 25.0
+101-0017,073,CD8 HIGH,Nivolumab,Ovarian cancer,Abdominal distension,Gastrointestinal disorders,154,191,Grade 2,No,No,Unrelated,Not Applicable,Recovered or Resolved,MedDRA 25.0
+101-0017,073,CD8 HIGH,Nivolumab,Ovarian cancer,Fatigue,General disorders and administration site conditions,154,190,Grade 2,No,No,Possibly,Not Applicable,Recovered or Resolved,MedDRA 25.0
+101-0017,073,CD8 HIGH,Nivolumab,Ovarian cancer,Pain in extremity,Musculoskeletal and connective tissue disorders,165,254,Grade 1,No,No,Unrelated,Not Applicable,Recovered or Resolved,MedDRA 25.0
+101-0017,073,CD8 HIGH,Nivolumab,Ovarian cancer,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",175,191,Grade 1,No,No,Unlikely,Not Applicable,Recovered or Resolved,MedDRA 25.0
+101-0017,073,CD8 HIGH,Nivolumab,Ovarian cancer,Fatigue,General disorders and administration site conditions,191,254,Grade 1,No,No,Possibly,Not Applicable,Recovered or Resolved,MedDRA 25.0
+101-0019,012,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Pyrexia,General disorders and administration site conditions,-2,-2,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+101-0019,012,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",13,15,Grade 2,Yes,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+101-0019,012,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Pyrexia,General disorders and administration site conditions,13,15,Grade 1,Yes,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+101-0019,012,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Stomatitis,Gastrointestinal disorders,22,43,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+101-0019,012,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Upper respiratory tract infection,Infections and infestations,27,41,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0019,012,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Arthralgia,Musculoskeletal and connective tissue disorders,49,NA,Grade 2,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+101-0019,012,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Pruritus,Skin and subcutaneous tissue disorders,50,89,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved with Sequelae,MedDRA 25.0
+101-0019,012,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Candida infection,Infections and infestations,82,105,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0019,012,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Gait disturbance,General disorders and administration site conditions,87,90,Grade 2,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+101-0019,012,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Pain in extremity,Musculoskeletal and connective tissue disorders,87,NA,Grade 2,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+101-0019,012,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Hypotension,Vascular disorders,89,90,Grade 3,Yes,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+101-0019,012,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Muscular weakness,Musculoskeletal and connective tissue disorders,89,90,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0019,012,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Pyrexia,General disorders and administration site conditions,89,90,Grade 2,Yes,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+101-0019,012,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Pruritus,Skin and subcutaneous tissue disorders,90,91,Grade 2,No,Yes,Possibly,Possibly,Recovered or Resolved with Sequelae,MedDRA 25.0
+101-0019,012,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Rash maculo-papular,Skin and subcutaneous tissue disorders,90,197,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+101-0019,012,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Pruritus,Skin and subcutaneous tissue disorders,92,197,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+101-0019,012,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Anal incontinence,Gastrointestinal disorders,158,161,Grade 2,Yes,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0019,012,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Ataxia,Nervous system disorders,158,161,Grade 3,Yes,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0019,012,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Urinary incontinence,Renal and urinary disorders,158,161,Grade 2,Yes,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0019,012,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Hypoxia,"Respiratory, thoracic and mediastinal disorders",163,166,Grade 4,Yes,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+101-0019,012,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Pyrexia,General disorders and administration site conditions,163,166,Grade 2,Yes,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+101-0019,012,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Back pain,Musculoskeletal and connective tissue disorders,279,NA,Grade 3,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+101-0019,012,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Confusional state,Psychiatric disorders,306,307,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+101-0019,012,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Confusional state,Psychiatric disorders,311,323,Grade 3,Yes,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+101-0020,013,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Nausea,Gastrointestinal disorders,1,NA,Grade 2,No,No,Possibly,Possibly,Recovering or Resolving,MedDRA 25.0
+101-0020,013,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Vomiting,Gastrointestinal disorders,2,2,Grade 2,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+101-0020,013,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Headache,Nervous system disorders,3,4,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+101-0020,013,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Fatigue,General disorders and administration site conditions,6,36,Grade 2,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+101-0020,013,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Muscular weakness,Musculoskeletal and connective tissue disorders,6,36,Grade 2,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+101-0020,013,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Hypothyroidism,Endocrine disorders,110,NA,Grade 2,No,Yes,Probably,Probably,Recovering or Resolving,MedDRA 25.0
+101-0020,013,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Fatigue,General disorders and administration site conditions,131,136,Grade 2,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+101-0020,013,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Adrenal insufficiency,Endocrine disorders,136,155,Grade 2,No,Yes,Probably,Probably,Recovered or Resolved,MedDRA 25.0
+102-0001,014,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Fatigue,General disorders and administration site conditions,2,4,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0001,014,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Lipase increased,Investigations,22,43,Grade 2,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0001,014,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Amylase increased,Investigations,43,45,Grade 3,Yes,No,Probably,Probably,Recovered or Resolved with Sequelae,MedDRA 25.0
+102-0001,014,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Lipase increased,Investigations,43,45,Grade 3,Yes,No,Probably,Probably,Recovered or Resolved with Sequelae,MedDRA 25.0
+102-0001,014,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Lipase increased,Investigations,45,NA,Grade 2,No,No,Probably,Probably,Recovering or Resolving,MedDRA 25.0
+102-0006,015,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Anaemia,Blood and lymphatic system disorders,3,NA,Grade 2,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+102-0006,015,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Gastrointestinal haemorrhage,Gastrointestinal disorders,3,NA,Grade 3,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0006,015,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Hypernatraemia,Metabolism and nutrition disorders,3,NA,Grade 2,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+102-0006,015,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,International normalised ratio increased,Investigations,3,4,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0010,016,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Urinary tract infection,Infections and infestations,15,26,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0010,016,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Anaemia,Blood and lymphatic system disorders,22,22,Grade 3,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0010,016,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Anaemia,Blood and lymphatic system disorders,22,43,Grade 2,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0010,016,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Fatigue,General disorders and administration site conditions,22,32,Grade 2,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0010,016,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Renal failure,Renal and urinary disorders,26,43,Grade 2,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0010,016,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Urinary tract infection,Infections and infestations,26,32,Grade 3,Yes,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0010,016,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Decreased appetite,Metabolism and nutrition disorders,29,NA,Grade 2,No,No,Possibly,Possibly,Recovering or Resolving,MedDRA 25.0
+102-0010,016,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Weight decreased,Investigations,29,NA,Grade 2,No,No,Possibly,Possibly,Recovering or Resolving,MedDRA 25.0
+102-0010,016,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Anaemia,Blood and lymphatic system disorders,43,NA,Grade 1,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+102-0010,016,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Stomatitis,Gastrointestinal disorders,43,NA,Grade 1,No,No,Possibly,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0010,016,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Skin lesion,Skin and subcutaneous tissue disorders,44,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0011,017,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Lipase increased,Investigations,10,22,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0011,017,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Myalgia,Musculoskeletal and connective tissue disorders,22,43,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0011,017,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Nausea,Gastrointestinal disorders,22,43,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0011,017,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Constipation,Gastrointestinal disorders,23,43,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0011,017,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Nausea,Gastrointestinal disorders,43,NA,Grade 2,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+102-0011,017,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Upper respiratory tract infection,Infections and infestations,43,NA,Grade 2,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0011,017,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Constipation,Gastrointestinal disorders,62,NA,Grade 2,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0011,017,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Vomiting,Gastrointestinal disorders,62,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0011,017,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Myalgia,Musculoskeletal and connective tissue disorders,63,NA,Grade 2,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0011,017,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Blood bilirubin increased,Investigations,64,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0011,017,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Fatigue,General disorders and administration site conditions,64,NA,Grade 2,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0011,017,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Hyponatraemia,Metabolism and nutrition disorders,64,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0013,018,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Headache,Nervous system disorders,2,4,Grade 1,No,No,Unrelated,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0013,018,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Sciatica,Nervous system disorders,2,10,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0013,018,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Anaemia,Blood and lymphatic system disorders,8,NA,Grade 1,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+102-0013,018,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Arthralgia,Musculoskeletal and connective tissue disorders,22,38,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0013,018,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Blood creatinine increased,Investigations,22,28,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0013,018,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Rash,Skin and subcutaneous tissue disorders,61,NA,Grade 2,No,Yes,Definitely,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0013,018,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Blood creatinine increased,Investigations,63,105,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0013,018,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Insomnia,Psychiatric disorders,83,90,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0013,018,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Portal hypertension,Hepatobiliary disorders,84,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0013,018,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Fatigue,General disorders and administration site conditions,108,NA,Grade 1,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+102-0013,018,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Cardiac ventricular thrombosis,Cardiac disorders,239,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0013,018,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Blood creatinine increased,Investigations,246,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0013,018,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Contusion,"Injury, poisoning and procedural complications",271,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0015,019,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Weight decreased,Investigations,1,50,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0015,019,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Influenza like illness,General disorders and administration site conditions,2,7,Grade 3,Yes,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+102-0015,019,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Rash,Skin and subcutaneous tissue disorders,2,4,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0015,019,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Abdominal distension,Gastrointestinal disorders,12,16,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+102-0015,019,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Chills,General disorders and administration site conditions,12,16,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0015,019,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Cough,"Respiratory, thoracic and mediastinal disorders",12,50,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0015,019,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Aspartate aminotransferase increased,Investigations,22,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0015,019,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Blood alkaline phosphatase increased,Investigations,22,NA,Grade 3,No,No,Unlikely,Unlikely,Not Recovered or Not Resolved,MedDRA 25.0
+102-0015,019,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Decreased appetite,Metabolism and nutrition disorders,22,NA,Grade 2,No,No,Possibly,Possibly,Recovering or Resolving,MedDRA 25.0
+102-0015,019,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Hypercalcaemia,Metabolism and nutrition disorders,22,29,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0015,019,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Rash,Skin and subcutaneous tissue disorders,22,29,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0015,019,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Anaemia,Blood and lymphatic system disorders,29,41,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved with Sequelae,MedDRA 25.0
+102-0015,019,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Hypercalcaemia,Metabolism and nutrition disorders,29,50,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0015,019,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Abdominal pain,Gastrointestinal disorders,40,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0015,019,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Nausea,Gastrointestinal disorders,40,NA,Grade 2,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+102-0015,019,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Vomiting,Gastrointestinal disorders,40,NA,Grade 2,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+102-0015,019,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Anaemia,Blood and lymphatic system disorders,41,50,Grade 2,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0015,019,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Alopecia,Skin and subcutaneous tissue disorders,50,NA,Grade 1,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+102-0015,019,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Anaemia,Blood and lymphatic system disorders,50,51,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved with Sequelae,MedDRA 25.0
+102-0015,019,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Blood bilirubin increased,Investigations,50,NA,Grade 2,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0015,019,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Dizziness,Nervous system disorders,50,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0015,019,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",50,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0015,019,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Anaemia,Blood and lymphatic system disorders,51,NA,Grade 2,No,No,Possibly,Possibly,Recovering or Resolving,MedDRA 25.0
+102-0016,020,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Myalgia,Musculoskeletal and connective tissue disorders,9,40,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved with Sequelae,MedDRA 25.0
+102-0016,020,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Pain in extremity,Musculoskeletal and connective tissue disorders,9,40,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved with Sequelae,MedDRA 25.0
+102-0016,020,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Tumour pain,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)",9,40,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved with Sequelae,MedDRA 25.0
+102-0016,020,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Diarrhoea,Gastrointestinal disorders,13,27,Grade 1,No,Yes,Unrelated,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0016,020,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Peripheral motor neuropathy,Nervous system disorders,13,27,Grade 2,No,No,Possibly,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0016,020,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Rash,Skin and subcutaneous tissue disorders,16,40,Grade 2,No,Yes,Possibly,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0016,020,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Myalgia,Musculoskeletal and connective tissue disorders,40,NA,Grade 2,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0016,020,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Pain in extremity,Musculoskeletal and connective tissue disorders,40,NA,Grade 2,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0016,020,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Tumour pain,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)",40,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0016,020,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Headache,Nervous system disorders,57,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0016,020,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Toothache,Gastrointestinal disorders,57,64,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0016,020,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Hypertension,Vascular disorders,64,64,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0016,020,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Anaemia,Blood and lymphatic system disorders,68,89,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved with Sequelae,MedDRA 25.0
+102-0016,020,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Hypertension,Vascular disorders,68,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0016,020,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Hyponatraemia,Metabolism and nutrition disorders,68,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0016,020,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Dental caries,Gastrointestinal disorders,76,118,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0016,020,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Toothache,Gastrointestinal disorders,76,118,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0016,020,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Oedema peripheral,General disorders and administration site conditions,89,97,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0016,020,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Anaemia,Blood and lymphatic system disorders,114,144,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0016,020,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Upper-airway cough syndrome,"Respiratory, thoracic and mediastinal disorders",131,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0016,020,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Anaemia,Blood and lymphatic system disorders,145,149,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0016,020,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Pelvic venous thrombosis,Vascular disorders,146,NA,Grade 3,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0016,020,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Pneumonia,Infections and infestations,146,153,Grade 3,Yes,No,Unrelated,Not Applicable,Recovered or Resolved,MedDRA 25.0
+102-0017,021,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Anaemia,Blood and lymphatic system disorders,10,10,Grade 2,No,No,Possibly,Possibly,Recovered or Resolved with Sequelae,MedDRA 25.0
+102-0017,021,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Bladder spasm,Renal and urinary disorders,10,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0017,021,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Fatigue,General disorders and administration site conditions,10,NA,Grade 2,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+102-0017,021,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Muscular weakness,Musculoskeletal and connective tissue disorders,10,NA,Grade 2,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+102-0017,021,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Urinary retention,Renal and urinary disorders,10,NA,Grade 2,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+102-0017,021,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Anaemia,Blood and lymphatic system disorders,11,11,Grade 3,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0017,021,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Rash,Skin and subcutaneous tissue disorders,11,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0017,021,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Anaemia,Blood and lymphatic system disorders,12,15,Grade 2,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0017,021,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Insomnia,Psychiatric disorders,13,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0018,022,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Rash,Skin and subcutaneous tissue disorders,6,13,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+102-0018,022,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Hypersensitivity,Immune system disorders,13,15,Grade 3,Yes,No,Unlikely,Unlikely,Recovered or Resolved with Sequelae,MedDRA 25.0
+102-0018,022,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Rash,Skin and subcutaneous tissue disorders,15,41,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+102-0018,022,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Myalgia,Musculoskeletal and connective tissue disorders,24,30,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0018,022,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Abdominal pain,Gastrointestinal disorders,41,43,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0018,022,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Constipation,Gastrointestinal disorders,41,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0018,022,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,Lipase increased,Investigations,50,NA,Grade 1,No,No,Unlikely,Unlikely,Not Recovered or Not Resolved,MedDRA 25.0
+102-0019,023,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Weight decreased,Investigations,-1,42,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+102-0019,023,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Blood thyroid stimulating hormone increased,Investigations,8,21,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved with Sequelae,MedDRA 25.0
+102-0019,023,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Bone pain,Musculoskeletal and connective tissue disorders,15,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0019,023,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Decreased appetite,Metabolism and nutrition disorders,15,33,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved with Sequelae,MedDRA 25.0
+102-0019,023,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Dehydration,Metabolism and nutrition disorders,15,36,Grade 2,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+102-0019,023,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Nausea,Gastrointestinal disorders,15,NA,Grade 2,No,No,Possibly,Possibly,Recovering or Resolving,MedDRA 25.0
+102-0019,023,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Vomiting,Gastrointestinal disorders,15,54,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+102-0019,023,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Fatigue,General disorders and administration site conditions,33,NA,Grade 2,No,No,Possibly,Possibly,Recovering or Resolving,MedDRA 25.0
+102-0019,023,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Decreased appetite,Metabolism and nutrition disorders,36,38,Grade 3,Yes,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0019,023,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Rash,Skin and subcutaneous tissue disorders,36,NA,Grade 2,No,Yes,Possibly,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0019,023,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Constipation,Gastrointestinal disorders,44,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0019,023,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Hypothyroidism,Endocrine disorders,45,NA,Grade 2,No,Yes,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+102-0019,023,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Stomatitis,Gastrointestinal disorders,54,NA,Grade 1,No,No,Possibly,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0019,023,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Vomiting,Gastrointestinal disorders,54,59,Grade 3,Yes,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+102-0019,023,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Muscular weakness,Musculoskeletal and connective tissue disorders,63,NA,Grade 2,No,No,Possibly,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0019,023,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Myalgia,Musculoskeletal and connective tissue disorders,63,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0019,023,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Tremor,Nervous system disorders,63,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0021,024,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Diarrhoea,Gastrointestinal disorders,10,10,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0021,024,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Influenza like illness,General disorders and administration site conditions,26,37,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0021,024,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Pyrexia,General disorders and administration site conditions,59,59,Grade 1,No,No,Possibly,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0021,024,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Back pain,Musculoskeletal and connective tissue disorders,64,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0021,024,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Arthritis,Musculoskeletal and connective tissue disorders,197,201,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0023,025,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Hot flush,Vascular disorders,9,9,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0023,025,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Abdominal distension,Gastrointestinal disorders,10,NA,Grade 2,No,No,Possibly,Possibly,Recovering or Resolving,MedDRA 25.0
+102-0023,025,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",10,12,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0023,025,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",18,NA,Grade 2,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0023,025,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Blood creatinine increased,Investigations,21,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0023,025,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Blood thyroid stimulating hormone increased,Investigations,21,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0023,025,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Decreased appetite,Metabolism and nutrition disorders,21,NA,Grade 1,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+102-0023,025,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Hyponatraemia,Metabolism and nutrition disorders,21,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0023,025,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Respiratory failure,"Respiratory, thoracic and mediastinal disorders",25,NA,Grade 4,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0024,026,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Myalgia,Musculoskeletal and connective tissue disorders,3,3,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0024,026,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Blood lactate dehydrogenase increased,Investigations,8,NA,Grade 1,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+102-0024,026,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Rash,Skin and subcutaneous tissue disorders,8,NA,Grade 2,No,Yes,Definitely,Definitely,Recovering or Resolving,MedDRA 25.0
+102-0024,026,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Cough,"Respiratory, thoracic and mediastinal disorders",17,42,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0024,026,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Headache,Nervous system disorders,17,NA,Grade 1,No,No,Possibly,Possibly,Recovering or Resolving,MedDRA 25.0
+102-0024,026,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",40,46,Grade 3,No,No,Definitely,Definitely,Recovered or Resolved,MedDRA 25.0
+102-0024,026,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Myalgia,Musculoskeletal and connective tissue disorders,40,NA,Grade 2,No,No,Definitely,Definitely,Recovering or Resolving,MedDRA 25.0
+102-0024,026,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Blood creatine phosphokinase increased,Investigations,42,43,Grade 3,No,No,Definitely,Definitely,Recovered or Resolved with Sequelae,MedDRA 25.0
+102-0024,026,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Blood creatinine increased,Investigations,42,43,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0024,026,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Cough,"Respiratory, thoracic and mediastinal disorders",42,46,Grade 3,No,No,Definitely,Definitely,Recovered or Resolved,MedDRA 25.0
+102-0024,026,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Muscular weakness,Musculoskeletal and connective tissue disorders,42,46,Grade 3,No,No,Definitely,Definitely,Recovered or Resolved,MedDRA 25.0
+102-0024,026,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Myalgia,Musculoskeletal and connective tissue disorders,42,44,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0024,026,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Rhabdomyolysis,Musculoskeletal and connective tissue disorders,42,50,Grade 3,Yes,Yes,Probably,Probably,Recovered or Resolved with Sequelae,MedDRA 25.0
+102-0024,026,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Troponin T increased,Investigations,42,43,Grade 3,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0024,026,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Alanine aminotransferase increased,Investigations,43,46,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0024,026,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Aspartate aminotransferase increased,Investigations,43,45,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0024,026,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Blood thyroid stimulating hormone increased,Investigations,43,52,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0024,026,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Lymphocyte count decreased,Investigations,43,45,Grade 2,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0024,026,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Blood creatine phosphokinase increased,Investigations,44,45,Grade 2,No,No,Definitely,Definitely,Recovered or Resolved,MedDRA 25.0
+102-0024,026,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Constipation,Gastrointestinal disorders,45,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0024,026,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Platelet count decreased,Investigations,45,46,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0024,026,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Hypoalbuminaemia,Metabolism and nutrition disorders,47,50,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0024,026,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Platelet count decreased,Investigations,47,49,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0024,026,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Alanine aminotransferase increased,Investigations,48,49,Grade 2,No,Yes,Possibly,Possibly,Recovered or Resolved with Sequelae,MedDRA 25.0
+102-0024,026,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Aspartate aminotransferase increased,Investigations,48,49,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved with Sequelae,MedDRA 25.0
+102-0024,026,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Alanine aminotransferase increased,Investigations,49,NA,Grade 1,No,Yes,Possibly,Possibly,Recovering or Resolving,MedDRA 25.0
+102-0024,026,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Rhabdomyolysis,Musculoskeletal and connective tissue disorders,100,106,Grade 3,Yes,Yes,Probably,Probably,Recovered or Resolved,MedDRA 25.0
+102-0025,027,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Pruritus,Skin and subcutaneous tissue disorders,3,19,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0025,027,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Blood creatinine increased,Investigations,21,84,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0025,027,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Nail discolouration,Skin and subcutaneous tissue disorders,28,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0025,027,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Nail disorder,Skin and subcutaneous tissue disorders,28,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0025,027,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Rash,Skin and subcutaneous tissue disorders,29,NA,Grade 1,No,Yes,Possibly,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0025,027,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Onychomadesis,Skin and subcutaneous tissue disorders,37,37,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0025,027,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Abdominal pain,Gastrointestinal disorders,51,58,Grade 2,No,No,Possibly,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0025,027,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Nausea,Gastrointestinal disorders,51,58,Grade 2,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0025,027,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Vomiting,Gastrointestinal disorders,51,58,Grade 1,No,No,Unlikely,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0025,027,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Nausea,Gastrointestinal disorders,58,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0025,027,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Basal cell carcinoma,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)",81,81,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0025,027,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Muscle spasms,Musculoskeletal and connective tissue disorders,125,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0025,027,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Peripheral swelling,General disorders and administration site conditions,169,184,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0025,027,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Rash,Skin and subcutaneous tissue disorders,170,177,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0025,027,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Abdominal distension,Gastrointestinal disorders,171,177,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0025,027,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Abdominal mass,Gastrointestinal disorders,182,190,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0025,027,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Catheter site cellulitis,Infections and infestations,190,192,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0025,027,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Bacteraemia,Infections and infestations,214,NA,Grade 3,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0025,027,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Hypotension,Vascular disorders,216,218,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0026,028,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Decreased appetite,Metabolism and nutrition disorders,1,10,Grade 2,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0026,028,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Fatigue,General disorders and administration site conditions,2,NA,Grade 1,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+102-0026,028,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Rash,Skin and subcutaneous tissue disorders,2,NA,Grade 2,No,Yes,Definitely,Not Applicable,Recovering or Resolving,MedDRA 25.0
+102-0026,028,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Amnesia,Nervous system disorders,7,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0026,028,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Anaemia,Blood and lymphatic system disorders,7,NA,Grade 2,No,No,Possibly,Possibly,Recovering or Resolving,MedDRA 25.0
+102-0026,028,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Urinary tract infection,Infections and infestations,7,12,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0026,028,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Abdominal pain,Gastrointestinal disorders,10,NA,Grade 2,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0026,028,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Nausea,Gastrointestinal disorders,13,NA,Grade 2,No,No,Possibly,Possibly,Recovering or Resolving,MedDRA 25.0
+102-0026,028,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Aspartate aminotransferase increased,Investigations,20,27,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+102-0026,028,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Decreased appetite,Metabolism and nutrition disorders,20,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0026,028,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Hyponatraemia,Metabolism and nutrition disorders,20,NA,Grade 1,No,No,Possibly,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Dry mouth,Gastrointestinal disorders,8,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Blood thyroid stimulating hormone increased,Investigations,22,43,Grade 1,No,Yes,Possibly,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Headache,Nervous system disorders,23,23,Grade 1,No,No,Unrelated,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Cough,"Respiratory, thoracic and mediastinal disorders",30,36,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Cough,"Respiratory, thoracic and mediastinal disorders",37,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Hypokalaemia,Metabolism and nutrition disorders,87,101,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Amylase increased,Investigations,185,576,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Dysgeusia,Nervous system disorders,185,NA,Grade 2,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Hypokalaemia,Metabolism and nutrition disorders,241,658,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Pneumonia aspiration,Infections and infestations,252,259,Grade 3,Yes,No,Unlikely,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Vomiting,Gastrointestinal disorders,252,259,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Hiatus hernia,Gastrointestinal disorders,254,470,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Leukocytosis,Blood and lymphatic system disorders,269,295,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Upper respiratory tract infection,Infections and infestations,269,276,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Leukocytosis,Blood and lymphatic system disorders,325,353,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Anxiety,Psychiatric disorders,438,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Insomnia,Psychiatric disorders,438,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Amylase increased,Investigations,577,738,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Hypokalaemia,Metabolism and nutrition disorders,659,689,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Herpes zoster,Infections and infestations,673,684,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Blood creatinine increased,Investigations,729,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Hot flush,Vascular disorders,738,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Amylase increased,Investigations,739,766,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Tremor,Nervous system disorders,739,NA,Grade 1,No,No,Unlikely,Unlikely,Not Recovered or Not Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Cough,"Respiratory, thoracic and mediastinal disorders",795,813,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Chills,General disorders and administration site conditions,814,823,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Cough,"Respiratory, thoracic and mediastinal disorders",814,823,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",814,823,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Pneumonia,Infections and infestations,819,824,Grade 3,Yes,No,Unlikely,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Cough,"Respiratory, thoracic and mediastinal disorders",824,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Leukocytosis,Blood and lymphatic system disorders,941,953,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Pneumonia aspiration,Infections and infestations,941,950,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Chest pain,General disorders and administration site conditions,1039,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Respiratory tract infection,Infections and infestations,1040,1066,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Hypokalaemia,Metabolism and nutrition disorders,1095,1095,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Leukocytosis,Blood and lymphatic system disorders,1095,1099,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Pneumonia,Infections and infestations,1096,1103,Grade 3,Yes,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Anaemia,Blood and lymphatic system disorders,1098,1099,Grade 2,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Hypokalaemia,Metabolism and nutrition disorders,1098,1098,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Anaemia,Blood and lymphatic system disorders,1101,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Hypokalaemia,Metabolism and nutrition disorders,1103,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0029,030,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Myalgia,Musculoskeletal and connective tissue disorders,11,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0029,030,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Nasal congestion,"Respiratory, thoracic and mediastinal disorders",21,28,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0029,030,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Insomnia,Psychiatric disorders,58,63,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0029,030,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Rash,Skin and subcutaneous tissue disorders,58,63,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0029,030,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Retinal detachment,Eye disorders,185,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0029,030,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Visual impairment,Eye disorders,205,280,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0029,030,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Photophobia,Eye disorders,213,231,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0029,030,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Pain in extremity,Musculoskeletal and connective tissue disorders,224,238,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0029,030,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Gait disturbance,General disorders and administration site conditions,303,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0029,030,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Amylase increased,Investigations,337,NA,Grade 2,No,No,Definitely,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0029,030,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Lipase increased,Investigations,337,NA,Grade 3,No,No,Definitely,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0030,031,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Upper-airway cough syndrome,"Respiratory, thoracic and mediastinal disorders",-9,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0030,031,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Alanine aminotransferase increased,Investigations,8,22,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved with Sequelae,MedDRA 25.0
+102-0030,031,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Alanine aminotransferase increased,Investigations,22,24,Grade 3,Yes,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0030,031,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Aspartate aminotransferase increased,Investigations,22,31,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0030,031,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Aspartate aminotransferase increased,Investigations,44,58,Grade 1,No,Yes,Probably,Probably,Recovered or Resolved,MedDRA 25.0
+102-0030,031,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Alanine aminotransferase increased,Investigations,50,58,Grade 1,No,Yes,Probably,Probably,Recovered or Resolved,MedDRA 25.0
+102-0030,031,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Stomatitis,Gastrointestinal disorders,64,87,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0030,031,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Limb injury,"Injury, poisoning and procedural complications",82,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0030,031,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Fatigue,General disorders and administration site conditions,90,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0030,031,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",260,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0030,031,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Productive cough,"Respiratory, thoracic and mediastinal disorders",260,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0030,031,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Joint injury,"Injury, poisoning and procedural complications",391,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0031,032,CD8 LOW,Nivolumab + Ipilimumab,Breast cancer,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",3,14,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0031,032,CD8 LOW,Nivolumab + Ipilimumab,Breast cancer,Constipation,Gastrointestinal disorders,7,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0031,032,CD8 LOW,Nivolumab + Ipilimumab,Breast cancer,Tumour pain,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)",7,NA,Grade 3,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0031,032,CD8 LOW,Nivolumab + Ipilimumab,Breast cancer,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",15,NA,Grade 3,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0032,033,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Fatigue,General disorders and administration site conditions,6,8,Grade 2,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0032,033,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Myalgia,Musculoskeletal and connective tissue disorders,6,13,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0032,033,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Flatulence,Gastrointestinal disorders,29,29,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0032,033,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Gastroenteritis,Infections and infestations,29,32,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0032,033,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Nausea,Gastrointestinal disorders,29,32,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved with Sequelae,MedDRA 25.0
+102-0032,033,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Tumour pain,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)",29,32,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0032,033,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Vomiting,Gastrointestinal disorders,33,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0032,033,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Dysuria,Renal and urinary disorders,40,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0032,033,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Lymphocyte count decreased,Investigations,40,NA,Grade 1,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+102-0032,033,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Oropharyngeal pain,"Respiratory, thoracic and mediastinal disorders",40,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0033,034,CD8 LOW,Nivolumab + Ipilimumab,Hepatocellular carcinoma,Blood creatinine increased,Investigations,8,42,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0033,034,CD8 LOW,Nivolumab + Ipilimumab,Hepatocellular carcinoma,Blood bilirubin increased,Investigations,21,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0033,034,CD8 LOW,Nivolumab + Ipilimumab,Hepatocellular carcinoma,Alanine aminotransferase increased,Investigations,42,45,Grade 2,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0033,034,CD8 LOW,Nivolumab + Ipilimumab,Hepatocellular carcinoma,Aspartate aminotransferase increased,Investigations,42,45,Grade 3,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0033,034,CD8 LOW,Nivolumab + Ipilimumab,Hepatocellular carcinoma,Alanine aminotransferase increased,Investigations,45,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0033,034,CD8 LOW,Nivolumab + Ipilimumab,Hepatocellular carcinoma,Aspartate aminotransferase increased,Investigations,45,NA,Grade 2,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0035,035,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Cough,"Respiratory, thoracic and mediastinal disorders",60,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0035,035,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Arthralgia,Musculoskeletal and connective tissue disorders,80,82,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0035,035,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Chest pain,General disorders and administration site conditions,80,82,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0035,035,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",80,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0035,035,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Constipation,Gastrointestinal disorders,82,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0035,035,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Arthralgia,Musculoskeletal and connective tissue disorders,83,NA,Grade 2,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0037,036,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Chills,General disorders and administration site conditions,5,8,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0037,036,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Pyrexia,General disorders and administration site conditions,5,8,Grade 2,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0037,036,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Decreased appetite,Metabolism and nutrition disorders,7,43,Grade 2,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0037,036,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Lymphocyte count decreased,Investigations,7,22,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0037,036,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Fatigue,General disorders and administration site conditions,10,18,Grade 2,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0037,036,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Lipase increased,Investigations,11,43,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0037,036,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Pruritus,Skin and subcutaneous tissue disorders,11,43,Grade 1,No,Yes,Unrelated,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0037,036,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Rash,Skin and subcutaneous tissue disorders,25,64,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0037,036,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Diarrhoea,Gastrointestinal disorders,35,39,Grade 2,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0037,036,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Decreased appetite,Metabolism and nutrition disorders,43,141,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0037,036,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Lipase increased,Investigations,43,106,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0037,036,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Pruritus,Skin and subcutaneous tissue disorders,86,NA,Grade 1,No,Yes,Unrelated,Possibly,Recovering or Resolving,MedDRA 25.0
+102-0037,036,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Diarrhoea,Gastrointestinal disorders,113,130,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0037,036,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Nausea,Gastrointestinal disorders,113,280,Grade 2,No,No,Probably,Probably,Recovered or Resolved,MedDRA 25.0
+102-0037,036,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Abdominal pain,Gastrointestinal disorders,121,122,Grade 2,No,No,Probably,Definitely,Recovered or Resolved,MedDRA 25.0
+102-0037,036,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Gastritis,Gastrointestinal disorders,121,129,Grade 3,Yes,No,Probably,Definitely,Recovered or Resolved with Sequelae,MedDRA 25.0
+102-0037,036,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Muscle spasms,Musculoskeletal and connective tissue disorders,121,121,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0037,036,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Oesophagitis,Gastrointestinal disorders,121,129,Grade 3,Yes,No,Unrelated,Unrelated,Recovered or Resolved with Sequelae,MedDRA 25.0
+102-0037,036,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Candida infection,Infections and infestations,126,130,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0037,036,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Muscle spasms,Musculoskeletal and connective tissue disorders,130,170,Grade 2,No,No,Probably,Definitely,Recovered or Resolved,MedDRA 25.0
+102-0037,036,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Gastritis,Gastrointestinal disorders,131,NA,Grade 2,No,No,Probably,Definitely,Not Recovered or Not Resolved,MedDRA 25.0
+102-0037,036,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Hyperglycaemia,Metabolism and nutrition disorders,141,170,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0037,036,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Decreased appetite,Metabolism and nutrition disorders,170,441,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+102-0037,036,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Abdominal pain,Gastrointestinal disorders,280,378,Grade 1,No,No,Probably,Definitely,Recovered or Resolved,MedDRA 25.0
+102-0038,037,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Nausea,Gastrointestinal disorders,39,NA,Grade 2,No,No,Possibly,Possibly,Recovering or Resolving,MedDRA 25.0
+102-0038,037,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Cough,"Respiratory, thoracic and mediastinal disorders",56,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0038,037,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Decreased appetite,Metabolism and nutrition disorders,56,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0038,037,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",56,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0038,037,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Productive cough,"Respiratory, thoracic and mediastinal disorders",56,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0039,038,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Abdominal pain,Gastrointestinal disorders,4,35,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0039,038,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Vomiting,Gastrointestinal disorders,12,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0039,038,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Hypokalaemia,Metabolism and nutrition disorders,22,36,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0039,038,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Abdominal pain,Gastrointestinal disorders,35,36,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0039,038,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Nausea,Gastrointestinal disorders,35,36,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0039,038,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Abdominal pain,Gastrointestinal disorders,36,NA,Grade 2,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0039,038,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Nausea,Gastrointestinal disorders,36,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0039,038,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Rash,Skin and subcutaneous tissue disorders,40,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+102-0039,038,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Oedema peripheral,General disorders and administration site conditions,64,NA,Grade 1,No,No,Possibly,Possibly,Recovering or Resolving,MedDRA 25.0
+102-0039,038,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Colitis,Gastrointestinal disorders,66,72,Grade 3,Yes,Yes,Probably,Probably,Recovered or Resolved,MedDRA 25.0
+102-0039,038,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Thyroiditis,Endocrine disorders,66,72,Grade 3,Yes,Yes,Probably,Probably,Recovered or Resolved,MedDRA 25.0
+102-0041,074,CD8 HIGH,Nivolumab,Head and neck cancer,Weight decreased,Investigations,1,102,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0041,074,CD8 HIGH,Nivolumab,Head and neck cancer,Vomiting,Gastrointestinal disorders,3,5,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0041,074,CD8 HIGH,Nivolumab,Head and neck cancer,Stomatitis,Gastrointestinal disorders,8,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0041,074,CD8 HIGH,Nivolumab,Head and neck cancer,Facial pain,General disorders and administration site conditions,19,NA,Grade 3,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0041,074,CD8 HIGH,Nivolumab,Head and neck cancer,Neck pain,Musculoskeletal and connective tissue disorders,19,NA,Grade 3,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0041,074,CD8 HIGH,Nivolumab,Head and neck cancer,Tumour pain,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)",19,NA,Grade 3,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0041,074,CD8 HIGH,Nivolumab,Head and neck cancer,Abscess drainage,Surgical and medical procedures,46,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0041,074,CD8 HIGH,Nivolumab,Head and neck cancer,Headache,Nervous system disorders,46,NA,Grade 3,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0041,074,CD8 HIGH,Nivolumab,Head and neck cancer,Photophobia,Eye disorders,46,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0041,074,CD8 HIGH,Nivolumab,Head and neck cancer,Trigeminal neuralgia,Nervous system disorders,46,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0041,074,CD8 HIGH,Nivolumab,Head and neck cancer,Decreased appetite,Metabolism and nutrition disorders,47,NA,Grade 3,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0041,074,CD8 HIGH,Nivolumab,Head and neck cancer,Hypokalaemia,Metabolism and nutrition disorders,48,48,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0041,074,CD8 HIGH,Nivolumab,Head and neck cancer,Constipation,Gastrointestinal disorders,49,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0041,074,CD8 HIGH,Nivolumab,Head and neck cancer,Eye pain,Eye disorders,49,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0041,074,CD8 HIGH,Nivolumab,Head and neck cancer,Soft tissue necrosis,Musculoskeletal and connective tissue disorders,53,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0041,074,CD8 HIGH,Nivolumab,Head and neck cancer,Anxiety,Psychiatric disorders,77,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0041,074,CD8 HIGH,Nivolumab,Head and neck cancer,Suicidal ideation,Psychiatric disorders,77,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0041,074,CD8 HIGH,Nivolumab,Head and neck cancer,Nausea,Gastrointestinal disorders,83,NA,Grade 3,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0041,074,CD8 HIGH,Nivolumab,Head and neck cancer,Vomiting,Gastrointestinal disorders,83,NA,Grade 3,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0041,074,CD8 HIGH,Nivolumab,Head and neck cancer,Depression,Psychiatric disorders,97,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0041,074,CD8 HIGH,Nivolumab,Head and neck cancer,Dizziness,Nervous system disorders,97,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0041,074,CD8 HIGH,Nivolumab,Head and neck cancer,Fatigue,General disorders and administration site conditions,97,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0041,074,CD8 HIGH,Nivolumab,Head and neck cancer,Pyrexia,General disorders and administration site conditions,98,99,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0041,074,CD8 HIGH,Nivolumab,Head and neck cancer,Productive cough,"Respiratory, thoracic and mediastinal disorders",99,99,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0041,074,CD8 HIGH,Nivolumab,Head and neck cancer,Abdominal distension,Gastrointestinal disorders,102,102,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0042,039,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Back pain,Musculoskeletal and connective tissue disorders,10,43,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0042,039,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",10,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0042,039,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Leukopenia,Blood and lymphatic system disorders,22,43,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0042,039,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Conjunctival haemorrhage,Eye disorders,43,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0042,039,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Hyperthyroidism,Endocrine disorders,43,NA,Grade 1,No,Yes,Probably,Probably,Not Recovered or Not Resolved,MedDRA 25.0
+102-0042,039,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Hypertransaminasaemia,Hepatobiliary disorders,43,44,Grade 3,Yes,No,Probably,Probably,Recovered or Resolved with Sequelae,MedDRA 25.0
+102-0042,039,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Leukopenia,Blood and lymphatic system disorders,43,44,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0042,039,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Myalgia,Musculoskeletal and connective tissue disorders,43,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0042,039,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Thyroiditis,Endocrine disorders,43,44,Grade 3,Yes,Yes,Probably,Probably,Recovered or Resolved with Sequelae,MedDRA 25.0
+102-0042,039,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Leukopenia,Blood and lymphatic system disorders,44,113,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0042,039,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Alanine aminotransferase increased,Investigations,50,80,Grade 2,No,Yes,Probably,Probably,Recovered or Resolved,MedDRA 25.0
+102-0042,039,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Aspartate aminotransferase increased,Investigations,64,80,Grade 1,No,Yes,Probably,Probably,Recovered or Resolved,MedDRA 25.0
+102-0042,039,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Hypertension,Vascular disorders,113,NA,Grade 3,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0042,039,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Neuropathy peripheral,Nervous system disorders,113,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0044,075,CD8 HIGH,Nivolumab,Head and neck cancer,Fatigue,General disorders and administration site conditions,8,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0044,075,CD8 HIGH,Nivolumab,Head and neck cancer,Haemoptysis,"Respiratory, thoracic and mediastinal disorders",31,33,Grade 3,Yes,No,Unrelated,Not Applicable,Recovered or Resolved,MedDRA 25.0
+102-0044,075,CD8 HIGH,Nivolumab,Head and neck cancer,Pain of skin,Skin and subcutaneous tissue disorders,36,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0044,075,CD8 HIGH,Nivolumab,Head and neck cancer,Productive cough,"Respiratory, thoracic and mediastinal disorders",36,45,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0044,075,CD8 HIGH,Nivolumab,Head and neck cancer,Cough,"Respiratory, thoracic and mediastinal disorders",45,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0045,040,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Bone pain,Musculoskeletal and connective tissue disorders,19,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0045,040,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Myalgia,Musculoskeletal and connective tissue disorders,19,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0045,040,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Anaemia,Blood and lymphatic system disorders,28,49,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved with Sequelae,MedDRA 25.0
+102-0045,040,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Arthralgia,Musculoskeletal and connective tissue disorders,28,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0045,040,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Platelet count decreased,Investigations,42,NA,Grade 3,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0045,040,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Anaemia,Blood and lymphatic system disorders,49,56,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved with Sequelae,MedDRA 25.0
+102-0045,040,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Anaemia,Blood and lymphatic system disorders,56,77,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved with Sequelae,MedDRA 25.0
+102-0045,040,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Anaemia,Blood and lymphatic system disorders,77,84,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved with Sequelae,MedDRA 25.0
+102-0045,040,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Dizziness,Nervous system disorders,97,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0045,040,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Anaemia,Blood and lymphatic system disorders,98,105,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0045,040,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Pancytopenia,Blood and lymphatic system disorders,98,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0045,040,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Anaemia,Blood and lymphatic system disorders,113,119,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0045,040,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Ear pain,Ear and labyrinth disorders,119,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0046,041,CD8 LOW,Nivolumab + Ipilimumab,Pelvic neoplasm,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",14,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0046,041,CD8 LOW,Nivolumab + Ipilimumab,Pelvic neoplasm,Constipation,Gastrointestinal disorders,60,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0046,041,CD8 LOW,Nivolumab + Ipilimumab,Pelvic neoplasm,Back pain,Musculoskeletal and connective tissue disorders,64,64,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved with Sequelae,MedDRA 25.0
+102-0046,041,CD8 LOW,Nivolumab + Ipilimumab,Pelvic neoplasm,Nausea,Gastrointestinal disorders,64,NA,Grade 2,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+102-0046,041,CD8 LOW,Nivolumab + Ipilimumab,Pelvic neoplasm,Back pain,Musculoskeletal and connective tissue disorders,65,65,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0046,041,CD8 LOW,Nivolumab + Ipilimumab,Pelvic neoplasm,Back pain,Musculoskeletal and connective tissue disorders,65,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0046,041,CD8 LOW,Nivolumab + Ipilimumab,Pelvic neoplasm,Decreased appetite,Metabolism and nutrition disorders,69,NA,Grade 2,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+102-0046,041,CD8 LOW,Nivolumab + Ipilimumab,Pelvic neoplasm,Anaemia,Blood and lymphatic system disorders,92,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0046,041,CD8 LOW,Nivolumab + Ipilimumab,Pelvic neoplasm,Chills,General disorders and administration site conditions,119,138,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0046,041,CD8 LOW,Nivolumab + Ipilimumab,Pelvic neoplasm,Fatigue,General disorders and administration site conditions,119,NA,Grade 2,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+102-0046,041,CD8 LOW,Nivolumab + Ipilimumab,Pelvic neoplasm,Pyrexia,General disorders and administration site conditions,134,152,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+102-0048,042,CD8 LOW,Nivolumab + Ipilimumab,Pelvic neoplasm,Gait disturbance,General disorders and administration site conditions,2,NA,Grade 3,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0048,042,CD8 LOW,Nivolumab + Ipilimumab,Pelvic neoplasm,Muscular weakness,Musculoskeletal and connective tissue disorders,2,NA,Grade 3,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0048,042,CD8 LOW,Nivolumab + Ipilimumab,Pelvic neoplasm,Arthralgia,Musculoskeletal and connective tissue disorders,3,NA,Grade 3,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0048,042,CD8 LOW,Nivolumab + Ipilimumab,Pelvic neoplasm,Myalgia,Musculoskeletal and connective tissue disorders,3,NA,Grade 3,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0048,042,CD8 LOW,Nivolumab + Ipilimumab,Pelvic neoplasm,Tumour pain,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)",3,NA,Grade 3,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0048,042,CD8 LOW,Nivolumab + Ipilimumab,Pelvic neoplasm,Anxiety,Psychiatric disorders,5,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+102-0048,042,CD8 LOW,Nivolumab + Ipilimumab,Pelvic neoplasm,Fatigue,General disorders and administration site conditions,5,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Decreased appetite,Metabolism and nutrition disorders,1,NA,Grade 2,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Abdominal pain,Gastrointestinal disorders,5,6,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Anaemia,Blood and lymphatic system disorders,5,10,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Flank pain,Musculoskeletal and connective tissue disorders,5,6,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Hypokalaemia,Metabolism and nutrition disorders,5,10,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Pruritus,Skin and subcutaneous tissue disorders,5,NA,Grade 1,No,Yes,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Thrombocytopenia,Blood and lymphatic system disorders,5,10,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Vomiting,Gastrointestinal disorders,5,6,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Abdominal pain,Gastrointestinal disorders,6,24,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Fatigue,General disorders and administration site conditions,6,NA,Grade 2,No,No,Possibly,Possibly,Recovering or Resolving,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Flank pain,Musculoskeletal and connective tissue disorders,6,24,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Hypomagnesaemia,Metabolism and nutrition disorders,6,10,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Alanine aminotransferase increased,Investigations,22,29,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Anaemia,Blood and lymphatic system disorders,22,23,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Aspartate aminotransferase increased,Investigations,22,29,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Blood alkaline phosphatase increased,Investigations,22,23,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Pyrexia,General disorders and administration site conditions,22,24,Grade 2,Yes,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Tachycardia,Cardiac disorders,22,22,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Anaemia,Blood and lymphatic system disorders,23,24,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Thrombocytopenia,Blood and lymphatic system disorders,23,29,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Anaemia,Blood and lymphatic system disorders,24,49,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Insomnia,Psychiatric disorders,24,66,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Blood alkaline phosphatase increased,Investigations,29,89,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Anaemia,Blood and lymphatic system disorders,49,67,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Gamma-glutamyltransferase increased,Investigations,49,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Hyperthyroidism,Endocrine disorders,49,89,Grade 2,No,Yes,Definitely,Definitely,Recovered or Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Anaemia,Blood and lymphatic system disorders,67,140,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Aspartate aminotransferase increased,Investigations,67,89,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Hypothyroidism,Endocrine disorders,89,121,Grade 2,No,Yes,Definitely,Definitely,Recovered or Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Hypothyroidism,Endocrine disorders,121,NA,Grade 1,No,Yes,Definitely,Definitely,Not Recovered or Not Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Anaemia,Blood and lymphatic system disorders,140,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Sepsis,Infections and infestations,140,147,Grade 4,Yes,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+103-0003,076,CD8 HIGH,Nivolumab,Gastrooesophageal cancer,Hyperthyroidism,Endocrine disorders,42,63,Grade 1,No,Yes,Definitely,Not Applicable,Recovered or Resolved,MedDRA 25.0
+103-0003,076,CD8 HIGH,Nivolumab,Gastrooesophageal cancer,Hordeolum,Infections and infestations,52,84,Grade 1,No,No,Unrelated,Not Applicable,Recovered or Resolved,MedDRA 25.0
+103-0003,076,CD8 HIGH,Nivolumab,Gastrooesophageal cancer,Hypothyroidism,Endocrine disorders,63,NA,Grade 2,No,Yes,Definitely,Not Applicable,Not Recovered or Not Resolved,MedDRA 25.0
+103-0003,076,CD8 HIGH,Nivolumab,Gastrooesophageal cancer,Arthralgia,Musculoskeletal and connective tissue disorders,99,106,Grade 1,No,No,Definitely,Not Applicable,Recovered or Resolved,MedDRA 25.0
+103-0003,076,CD8 HIGH,Nivolumab,Gastrooesophageal cancer,Hypophysitis,Endocrine disorders,99,106,Grade 2,No,Yes,Definitely,Not Applicable,Recovered or Resolved,MedDRA 25.0
+103-0003,076,CD8 HIGH,Nivolumab,Gastrooesophageal cancer,Hyperbilirubinaemia,Hepatobiliary disorders,104,119,Grade 1,No,No,Unrelated,Not Applicable,Recovered or Resolved,MedDRA 25.0
+103-0003,076,CD8 HIGH,Nivolumab,Gastrooesophageal cancer,Hypophysitis,Endocrine disorders,106,NA,Grade 1,No,Yes,Definitely,Not Applicable,Recovering or Resolving,MedDRA 25.0
+103-0003,076,CD8 HIGH,Nivolumab,Gastrooesophageal cancer,Jugular vein thrombosis,Vascular disorders,115,206,Grade 2,No,No,Unrelated,Not Applicable,Recovered or Resolved,MedDRA 25.0
+103-0003,076,CD8 HIGH,Nivolumab,Gastrooesophageal cancer,Hyperkalaemia,Metabolism and nutrition disorders,119,147,Grade 1,No,No,Unrelated,Not Applicable,Recovered or Resolved,MedDRA 25.0
+103-0003,076,CD8 HIGH,Nivolumab,Gastrooesophageal cancer,Coronavirus infection,Infections and infestations,160,167,Grade 2,No,No,Unrelated,Not Applicable,Recovered or Resolved,MedDRA 25.0
+103-0003,076,CD8 HIGH,Nivolumab,Gastrooesophageal cancer,Osteoarthritis,Musculoskeletal and connective tissue disorders,188,301,Grade 2,No,No,Unrelated,Not Applicable,Recovered or Resolved,MedDRA 25.0
+103-0003,076,CD8 HIGH,Nivolumab,Gastrooesophageal cancer,Osteoarthritis,Musculoskeletal and connective tissue disorders,301,302,Grade 2,Yes,No,Unrelated,Not Applicable,Recovered or Resolved,MedDRA 25.0
+103-0003,076,CD8 HIGH,Nivolumab,Gastrooesophageal cancer,Osteoarthritis,Musculoskeletal and connective tissue disorders,302,315,Grade 2,No,No,Unrelated,Not Applicable,Recovered or Resolved,MedDRA 25.0
+103-0003,076,CD8 HIGH,Nivolumab,Gastrooesophageal cancer,Osteoarthritis,Musculoskeletal and connective tissue disorders,315,NA,Grade 1,No,No,Unrelated,Not Applicable,Recovering or Resolving,MedDRA 25.0
+103-0003,076,CD8 HIGH,Nivolumab,Gastrooesophageal cancer,Decreased appetite,Metabolism and nutrition disorders,329,427,Grade 2,No,No,Unrelated,Not Applicable,Recovered or Resolved,MedDRA 25.0
+103-0003,076,CD8 HIGH,Nivolumab,Gastrooesophageal cancer,Rash,Skin and subcutaneous tissue disorders,329,371,Grade 1,No,No,Unrelated,Not Applicable,Recovered or Resolved,MedDRA 25.0
+103-0003,076,CD8 HIGH,Nivolumab,Gastrooesophageal cancer,Anaemia,Blood and lymphatic system disorders,343,455,Grade 1,No,No,Unrelated,Not Applicable,Recovered or Resolved,MedDRA 25.0
+103-0003,076,CD8 HIGH,Nivolumab,Gastrooesophageal cancer,Rash pruritic,Skin and subcutaneous tissue disorders,356,716,Grade 1,No,No,Unrelated,Not Applicable,Recovered or Resolved,MedDRA 25.0
+103-0003,076,CD8 HIGH,Nivolumab,Gastrooesophageal cancer,Dysphagia,Gastrointestinal disorders,406,NA,Grade 1,No,No,Unrelated,Not Applicable,Recovering or Resolving,MedDRA 25.0
+103-0003,076,CD8 HIGH,Nivolumab,Gastrooesophageal cancer,Hyperbilirubinaemia,Hepatobiliary disorders,455,539,Grade 1,No,No,Unrelated,Not Applicable,Recovered or Resolved,MedDRA 25.0
+104-0001,044,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Fatigue,General disorders and administration site conditions,7,48,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0001,044,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Joint injury,"Injury, poisoning and procedural complications",8,22,Grade 3,Yes,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0001,044,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Anaemia,Blood and lymphatic system disorders,37,48,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0001,044,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Dehydration,Metabolism and nutrition disorders,43,48,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0002,045,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",28,50,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0002,045,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Neutropenia,Blood and lymphatic system disorders,43,50,Grade 3,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+104-0005,046,CD8 LOW,Nivolumab + Ipilimumab,Renal cancer,Fatigue,General disorders and administration site conditions,3,NA,Grade 1,No,No,Possibly,Possibly,Recovering or Resolving,MedDRA 25.0
+104-0005,046,CD8 LOW,Nivolumab + Ipilimumab,Renal cancer,Macular oedema,Eye disorders,17,35,Grade 2,No,No,Possibly,Probably,Recovered or Resolved,MedDRA 25.0
+104-0005,046,CD8 LOW,Nivolumab + Ipilimumab,Renal cancer,Rash maculo-papular,Skin and subcutaneous tissue disorders,17,NA,Grade 1,No,Yes,Possibly,Probably,Recovering or Resolving,MedDRA 25.0
+104-0005,046,CD8 LOW,Nivolumab + Ipilimumab,Renal cancer,Eye haemorrhage,Eye disorders,21,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+104-0005,046,CD8 LOW,Nivolumab + Ipilimumab,Renal cancer,Papilloedema,Eye disorders,35,124,Grade 3,No,No,Possibly,Probably,Recovered or Resolved,MedDRA 25.0
+104-0005,046,CD8 LOW,Nivolumab + Ipilimumab,Renal cancer,Retinal vein occlusion,Eye disorders,56,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+104-0006,047,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Cough,"Respiratory, thoracic and mediastinal disorders",6,105,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+104-0006,047,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Decreased appetite,Metabolism and nutrition disorders,9,NA,Grade 1,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+104-0006,047,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Diarrhoea,Gastrointestinal disorders,15,NA,Grade 1,No,Yes,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+104-0006,047,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Pruritus,Skin and subcutaneous tissue disorders,16,NA,Grade 1,No,Yes,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+104-0006,047,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Lipase increased,Investigations,22,NA,Grade 3,No,No,Probably,Probably,Not Recovered or Not Resolved,MedDRA 25.0
+104-0007,048,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Diarrhoea,Gastrointestinal disorders,18,NA,Grade 1,No,Yes,Possibly,Probably,Not Recovered or Not Resolved,MedDRA 25.0
+104-0007,048,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Influenza like illness,General disorders and administration site conditions,18,22,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+104-0007,048,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Pneumonia,Infections and infestations,64,71,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0007,048,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",NA,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+104-0007,048,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Fatigue,General disorders and administration site conditions,NA,NA,Grade 1,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+104-0008,077,CD8 HIGH,Nivolumab,Urethral cancer,Abdominal pain upper,Gastrointestinal disorders,2,5,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+104-0008,077,CD8 HIGH,Nivolumab,Urethral cancer,Hydronephrosis,Renal and urinary disorders,22,NA,Grade 1,No,No,Unlikely,Unlikely,Not Recovered or Not Resolved,MedDRA 25.0
+104-0008,077,CD8 HIGH,Nivolumab,Urethral cancer,Acute kidney injury,Renal and urinary disorders,29,NA,Grade 1,No,No,Unlikely,Unlikely,Not Recovered or Not Resolved,MedDRA 25.0
+104-0008,077,CD8 HIGH,Nivolumab,Urethral cancer,Pyrexia,General disorders and administration site conditions,42,43,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+104-0008,077,CD8 HIGH,Nivolumab,Urethral cancer,Blood creatinine increased,Investigations,50,120,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+104-0008,077,CD8 HIGH,Nivolumab,Urethral cancer,Transaminases increased,Investigations,50,92,Grade 2,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+104-0009,049,CD8 LOW,Nivolumab + Ipilimumab,Penile cancer,Rash erythematous,Skin and subcutaneous tissue disorders,11,NA,Grade 2,No,Yes,Possibly,Probably,Recovering or Resolving,MedDRA 25.0
+104-0009,049,CD8 LOW,Nivolumab + Ipilimumab,Penile cancer,Muscular weakness,Musculoskeletal and connective tissue disorders,32,35,Grade 3,Yes,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0009,049,CD8 LOW,Nivolumab + Ipilimumab,Penile cancer,Hyperthyroidism,Endocrine disorders,49,70,Grade 1,No,Yes,Possibly,Probably,Recovered or Resolved,MedDRA 25.0
+104-0009,049,CD8 LOW,Nivolumab + Ipilimumab,Penile cancer,Lipase increased,Investigations,70,75,Grade 3,No,No,Possibly,Probably,Recovered or Resolved,MedDRA 25.0
+104-0009,049,CD8 LOW,Nivolumab + Ipilimumab,Penile cancer,Hypothyroidism,Endocrine disorders,77,NA,Grade 2,No,Yes,Possibly,Possibly,Recovering or Resolving,MedDRA 25.0
+104-0009,049,CD8 LOW,Nivolumab + Ipilimumab,Penile cancer,Fatigue,General disorders and administration site conditions,112,NA,Grade 1,No,No,Possibly,Possibly,Recovering or Resolving,MedDRA 25.0
+104-0009,049,CD8 LOW,Nivolumab + Ipilimumab,Penile cancer,Diarrhoea,Gastrointestinal disorders,130,168,Grade 2,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+104-0010,050,CD8 LOW,Nivolumab + Ipilimumab,Renal cancer,Cough,"Respiratory, thoracic and mediastinal disorders",18,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+104-0010,050,CD8 LOW,Nivolumab + Ipilimumab,Renal cancer,Eye pruritus,Eye disorders,18,85,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0010,050,CD8 LOW,Nivolumab + Ipilimumab,Renal cancer,Fatigue,General disorders and administration site conditions,33,NA,Grade 1,No,No,Possibly,Possibly,Recovering or Resolving,MedDRA 25.0
+104-0010,050,CD8 LOW,Nivolumab + Ipilimumab,Renal cancer,Photophobia,Eye disorders,41,85,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0010,050,CD8 LOW,Nivolumab + Ipilimumab,Renal cancer,Hyponatraemia,Metabolism and nutrition disorders,127,156,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0010,050,CD8 LOW,Nivolumab + Ipilimumab,Renal cancer,Rash,Skin and subcutaneous tissue disorders,239,267,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+104-0010,050,CD8 LOW,Nivolumab + Ipilimumab,Renal cancer,Cough,"Respiratory, thoracic and mediastinal disorders",261,295,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0010,050,CD8 LOW,Nivolumab + Ipilimumab,Renal cancer,Back pain,Musculoskeletal and connective tissue disorders,323,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+104-0010,050,CD8 LOW,Nivolumab + Ipilimumab,Renal cancer,Hypertension,Vascular disorders,323,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+104-0010,050,CD8 LOW,Nivolumab + Ipilimumab,Renal cancer,Dizziness,Nervous system disorders,428,464,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0010,050,CD8 LOW,Nivolumab + Ipilimumab,Renal cancer,Tremor,Nervous system disorders,428,464,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0010,050,CD8 LOW,Nivolumab + Ipilimumab,Renal cancer,Abdominal pain,Gastrointestinal disorders,897,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+104-0010,050,CD8 LOW,Nivolumab + Ipilimumab,Renal cancer,Headache,Nervous system disorders,1104,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+104-0010,050,CD8 LOW,Nivolumab + Ipilimumab,Renal cancer,Tremor,Nervous system disorders,1104,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+104-0010,050,CD8 LOW,Nivolumab + Ipilimumab,Renal cancer,Dizziness,Nervous system disorders,NA,244,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0010,050,CD8 LOW,Nivolumab + Ipilimumab,Renal cancer,Pruritus,Skin and subcutaneous tissue disorders,NA,239,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+104-0014,051,CD8 LOW,Nivolumab + Ipilimumab,Tumour of ampulla of Vater,Cough,"Respiratory, thoracic and mediastinal disorders",9,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+104-0014,051,CD8 LOW,Nivolumab + Ipilimumab,Tumour of ampulla of Vater,Musculoskeletal chest pain,Musculoskeletal and connective tissue disorders,9,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+104-0014,051,CD8 LOW,Nivolumab + Ipilimumab,Tumour of ampulla of Vater,Pneumonia,Infections and infestations,47,68,Grade 2,Yes,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0014,051,CD8 LOW,Nivolumab + Ipilimumab,Tumour of ampulla of Vater,Amnesia,Nervous system disorders,NA,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+104-0014,051,CD8 LOW,Nivolumab + Ipilimumab,Tumour of ampulla of Vater,Fatigue,General disorders and administration site conditions,NA,NA,Grade 1,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+104-0015,052,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Fatigue,General disorders and administration site conditions,4,NA,Grade 1,No,No,Possibly,Possibly,Recovering or Resolving,MedDRA 25.0
+104-0015,052,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Arthralgia,Musculoskeletal and connective tissue disorders,5,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+104-0015,052,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Back pain,Musculoskeletal and connective tissue disorders,5,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+104-0015,052,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Cough,"Respiratory, thoracic and mediastinal disorders",21,NA,Grade 2,No,No,Possibly,Possibly,Recovering or Resolving,MedDRA 25.0
+104-0015,052,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Diplopia,Eye disorders,21,43,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0015,052,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Dizziness,Nervous system disorders,21,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+104-0015,052,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Paraesthesia,Nervous system disorders,21,43,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0015,052,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Confusional state,Psychiatric disorders,78,78,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0016,053,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,Stomatitis,Gastrointestinal disorders,6,NA,Grade 1,No,No,Unlikely,Unlikely,Recovering or Resolving,MedDRA 25.0
+104-0018,054,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Dehydration,Metabolism and nutrition disorders,8,9,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0018,054,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Syncope,Nervous system disorders,8,9,Grade 2,Yes,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0018,054,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Rash,Skin and subcutaneous tissue disorders,12,36,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+104-0018,054,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Fatigue,General disorders and administration site conditions,13,NA,Grade 1,No,No,Possibly,Possibly,Recovering or Resolving,MedDRA 25.0
+104-0018,054,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Headache,Nervous system disorders,13,22,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+104-0018,054,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Rash maculo-papular,Skin and subcutaneous tissue disorders,36,266,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+104-0018,054,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Cough,"Respiratory, thoracic and mediastinal disorders",97,113,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+104-0018,054,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Flank pain,Musculoskeletal and connective tissue disorders,127,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+104-0018,054,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Hypomagnesaemia,Metabolism and nutrition disorders,169,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+104-0018,054,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Wheezing,"Respiratory, thoracic and mediastinal disorders",169,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+104-0018,054,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Rash maculo-papular,Skin and subcutaneous tissue disorders,226,239,Grade 3,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+104-0018,054,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Rash maculo-papular,Skin and subcutaneous tissue disorders,239,257,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+104-0018,054,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Blood creatinine increased,Investigations,267,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+104-0018,054,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Rash maculo-papular,Skin and subcutaneous tissue disorders,267,NA,Grade 2,No,Yes,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+104-0018,054,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Diarrhoea,Gastrointestinal disorders,321,322,Grade 1,No,No,Unlikely,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0018,054,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Back pain,Musculoskeletal and connective tissue disorders,NA,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+104-0020,055,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Diarrhoea,Gastrointestinal disorders,43,43,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0020,055,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Diarrhoea,Gastrointestinal disorders,62,62,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0020,055,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Bronchitis,Infections and infestations,142,152,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0020,055,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Hyponatraemia,Metabolism and nutrition disorders,155,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+104-0020,055,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Nausea,Gastrointestinal disorders,183,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+104-0020,055,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Rash,Skin and subcutaneous tissue disorders,183,210,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+104-0020,055,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Vomiting,Gastrointestinal disorders,183,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+104-0020,055,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Squamous cell carcinoma,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)",225,225,Grade 2,Yes,No,Unlikely,Not Applicable,Recovered or Resolved,MedDRA 25.0
+104-0020,055,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Syncope,Nervous system disorders,247,247,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0020,055,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Transient ischaemic attack,Nervous system disorders,518,520,Grade 2,Yes,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0020,055,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Blood bilirubin increased,Investigations,533,533,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0021,056,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Diarrhoea,Gastrointestinal disorders,4,NA,Grade 1,No,Yes,Possibly,Probably,Recovering or Resolving,MedDRA 25.0
+104-0021,056,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Dehydration,Metabolism and nutrition disorders,23,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+104-0021,056,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Diarrhoea,Gastrointestinal disorders,23,64,Grade 2,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+104-0021,056,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Fatigue,General disorders and administration site conditions,23,NA,Grade 1,No,No,Possibly,Possibly,Recovering or Resolving,MedDRA 25.0
+104-0021,056,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Anaemia,Blood and lymphatic system disorders,64,70,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0021,056,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Gastritis,Gastrointestinal disorders,64,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+104-0021,056,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Anaemia,Blood and lymphatic system disorders,71,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+104-0021,056,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Hypocalcaemia,Metabolism and nutrition disorders,71,75,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0021,056,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Hypokalaemia,Metabolism and nutrition disorders,71,75,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0021,056,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Hypotension,Vascular disorders,110,117,Grade 3,Yes,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+104-0021,056,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Hypoglycaemia,Metabolism and nutrition disorders,120,123,Grade 3,Yes,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+104-0021,056,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",124,143,Grade 2,Yes,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+104-0022,057,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Rash macular,Skin and subcutaneous tissue disorders,3,22,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+104-0022,057,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Oropharyngeal pain,"Respiratory, thoracic and mediastinal disorders",6,22,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0022,057,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Arthralgia,Musculoskeletal and connective tissue disorders,29,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+104-0022,057,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Chills,General disorders and administration site conditions,38,NA,Grade 1,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+104-0022,057,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Pain in extremity,Musculoskeletal and connective tissue disorders,46,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+104-0023,058,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Procedural pain,"Injury, poisoning and procedural complications",-5,-2,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0023,058,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Rectal discharge,Gastrointestinal disorders,9,NA,Grade 2,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+104-0023,058,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Abdominal pain upper,Gastrointestinal disorders,28,NA,Grade 1,No,No,Unrelated,Unrelated,Recovering or Resolving,MedDRA 25.0
+104-0024,078,CD8 HIGH,Nivolumab,Renal cancer,Body tinea,Infections and infestations,-4,NA,Grade 1,No,No,Unrelated,Not Applicable,Recovering or Resolving,MedDRA 25.0
+104-0024,078,CD8 HIGH,Nivolumab,Renal cancer,Abdominal pain,Gastrointestinal disorders,45,NA,Grade 1,No,No,Probably,Not Applicable,Not Recovered or Not Resolved,MedDRA 25.0
+104-0024,078,CD8 HIGH,Nivolumab,Renal cancer,Vomiting,Gastrointestinal disorders,45,NA,Grade 1,No,No,Probably,Not Applicable,Not Recovered or Not Resolved,MedDRA 25.0
+104-0025,059,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Lipase increased,Investigations,22,43,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+104-0025,059,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Dysphagia,Gastrointestinal disorders,32,NA,Grade 1,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+104-0025,059,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Oesophagitis,Gastrointestinal disorders,32,NA,Grade 1,No,No,Unlikely,Unlikely,Not Recovered or Not Resolved,MedDRA 25.0
+104-0025,059,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Thyroiditis,Endocrine disorders,32,NA,Grade 1,No,Yes,Possibly,Possibly,Recovering or Resolving,MedDRA 25.0
+104-0025,059,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Lipase increased,Investigations,43,71,Grade 2,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+104-0025,059,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Cough,"Respiratory, thoracic and mediastinal disorders",70,NA,Grade 1,No,No,Unlikely,Unlikely,Not Recovered or Not Resolved,MedDRA 25.0
+104-0025,059,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Diarrhoea,Gastrointestinal disorders,70,70,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+104-0025,059,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Lipase increased,Investigations,71,NA,Grade 1,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+104-0025,059,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Lipase increased,Investigations,112,NA,Grade 2,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+104-0026,060,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Pelvic pain,Reproductive system and breast disorders,33,139,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0026,060,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Muscle spasms,Musculoskeletal and connective tissue disorders,46,139,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0026,060,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Pruritus,Skin and subcutaneous tissue disorders,68,88,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+104-0026,060,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",102,139,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0026,060,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Pneumonia,Infections and infestations,102,112,Grade 3,Yes,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0026,060,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Sepsis,Infections and infestations,102,113,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0026,060,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Atrioventricular block complete,Cardiac disorders,103,104,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+104-0026,060,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Cardio-respiratory arrest,Cardiac disorders,138,139,Grade 5,Yes,No,Unrelated,Unrelated,Fatal,MedDRA 25.0
+106-0001,061,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Anxiety,Psychiatric disorders,1,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+106-0001,061,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Fatigue,General disorders and administration site conditions,7,8,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+106-0001,061,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Night sweats,Skin and subcutaneous tissue disorders,7,8,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+106-0001,061,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Flushing,Vascular disorders,22,22,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+106-0001,061,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Hyperkalaemia,Metabolism and nutrition disorders,22,43,Grade 2,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+106-0001,061,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Blood creatinine increased,Investigations,43,65,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+106-0001,061,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Abdominal pain,Gastrointestinal disorders,64,65,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+106-0001,061,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Abdominal rigidity,Gastrointestinal disorders,64,65,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+106-0001,061,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Nausea,Gastrointestinal disorders,64,65,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+106-0001,061,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Vomiting,Gastrointestinal disorders,64,65,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+106-0001,061,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Diarrhoea,Gastrointestinal disorders,65,65,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+106-0001,061,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Pneumonia,Infections and infestations,86,88,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+106-0001,061,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,Small intestinal obstruction,Gastrointestinal disorders,86,88,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+106-0002,062,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Otorrhoea,Ear and labyrinth disorders,21,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+106-0002,062,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Fatigue,General disorders and administration site conditions,29,NA,Grade 2,No,No,Definitely,Definitely,Not Recovered or Not Resolved,MedDRA 25.0
+106-0002,062,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",30,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+106-0002,062,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Pneumonia,Infections and infestations,32,42,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+106-0002,062,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Autoimmune hepatitis,Hepatobiliary disorders,36,NA,Grade 2,No,Yes,Definitely,Definitely,Not Recovered or Not Resolved,MedDRA 25.0
+106-0002,062,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Myocardial infarction,Cardiac disorders,42,45,Grade 4,Yes,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+106-0002,062,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Myocardial infarction,Cardiac disorders,46,46,Grade 5,Yes,No,Unrelated,Unrelated,Fatal,MedDRA 25.0
+106-0003,063,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Pneumothorax,"Respiratory, thoracic and mediastinal disorders",-20,-20,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+106-0003,063,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Fatigue,General disorders and administration site conditions,9,106,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+106-0003,063,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Pyrexia,General disorders and administration site conditions,65,65,Grade 1,No,No,Definitely,Definitely,Recovered or Resolved,MedDRA 25.0
+106-0003,063,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Productive cough,"Respiratory, thoracic and mediastinal disorders",207,217,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+106-0003,063,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Upper respiratory tract infection,Infections and infestations,207,217,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+106-0003,063,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Diarrhoea,Gastrointestinal disorders,210,NA,Grade 3,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+106-0003,063,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Fatigue,General disorders and administration site conditions,308,NA,Grade 2,No,No,Possibly,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+106-0003,063,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Hypotension,Vascular disorders,330,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+106-0003,063,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Lipase increased,Investigations,330,359,Grade 2,No,No,Definitely,Unrelated,Recovered or Resolved,MedDRA 25.0
+106-0003,063,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Wheezing,"Respiratory, thoracic and mediastinal disorders",330,NA,Grade 1,No,No,Possibly,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+106-0003,063,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Dry mouth,Gastrointestinal disorders,335,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+106-0003,063,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",335,NA,Grade 2,No,No,Possibly,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+106-0003,063,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Lipase increased,Investigations,359,NA,Grade 1,No,No,Definitely,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+106-0003,063,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Lymphocyte count decreased,Investigations,359,366,Grade 2,No,No,Definitely,Unrelated,Recovered or Resolved,MedDRA 25.0
+106-0003,063,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Lymphocyte count decreased,Investigations,366,NA,Grade 1,No,No,Definitely,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+106-0005,064,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Diarrhoea,Gastrointestinal disorders,5,NA,Grade 1,No,Yes,Definitely,Definitely,Not Recovered or Not Resolved,MedDRA 25.0
+106-0005,064,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Fatigue,General disorders and administration site conditions,11,NA,Grade 3,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+106-0005,064,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Pulmonary haemorrhage,"Respiratory, thoracic and mediastinal disorders",11,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+106-0006,065,CD8 LOW,Nivolumab + Ipilimumab,Teratoma,Head discomfort,Nervous system disorders,73,85,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+106-0006,065,CD8 LOW,Nivolumab + Ipilimumab,Teratoma,Constipation,Gastrointestinal disorders,113,155,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+106-0006,065,CD8 LOW,Nivolumab + Ipilimumab,Teratoma,Nasal congestion,"Respiratory, thoracic and mediastinal disorders",151,158,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+106-0006,065,CD8 LOW,Nivolumab + Ipilimumab,Teratoma,Oropharyngeal pain,"Respiratory, thoracic and mediastinal disorders",151,158,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+106-0006,065,CD8 LOW,Nivolumab + Ipilimumab,Teratoma,Thermal burn,"Injury, poisoning and procedural complications",184,246,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+106-0008,066,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Fatigue,General disorders and administration site conditions,1,4,Grade 1,No,No,Definitely,Definitely,Recovered or Resolved,MedDRA 25.0
+106-0008,066,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Pain,General disorders and administration site conditions,4,22,Grade 1,No,No,Probably,Probably,Recovered or Resolved,MedDRA 25.0
+106-0008,066,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Diarrhoea,Gastrointestinal disorders,5,5,Grade 1,No,Yes,Definitely,Definitely,Recovered or Resolved,MedDRA 25.0
+106-0008,066,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Pruritus,Skin and subcutaneous tissue disorders,25,43,Grade 2,No,Yes,Probably,Probably,Recovered or Resolved,MedDRA 25.0
+106-0008,066,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Diarrhoea,Gastrointestinal disorders,28,64,Grade 2,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+106-0008,066,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Nausea,Gastrointestinal disorders,28,NA,Grade 1,No,No,Probably,Probably,Not Recovered or Not Resolved,MedDRA 25.0
+106-0008,066,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Influenza like illness,General disorders and administration site conditions,29,NA,Grade 1,No,No,Probably,Probably,Not Recovered or Not Resolved,MedDRA 25.0
+106-0008,066,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Feeling hot,General disorders and administration site conditions,32,NA,Grade 1,No,No,Probably,Probably,Not Recovered or Not Resolved,MedDRA 25.0
+106-0008,066,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Blood creatinine increased,Investigations,43,64,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+106-0008,066,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Diarrhoea,Gastrointestinal disorders,64,NA,Grade 1,No,Yes,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+106-0009,067,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",18,NA,Grade 3,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+106-0009,067,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Myositis,Musculoskeletal and connective tissue disorders,18,25,Grade 2,Yes,Yes,Probably,Probably,Recovered or Resolved,MedDRA 25.0
+106-0010,068,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Headache,Nervous system disorders,2,4,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+106-0010,068,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Stomatitis,Gastrointestinal disorders,2,6,Grade 1,No,No,Definitely,Definitely,Recovered or Resolved,MedDRA 25.0
+106-0010,068,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Influenza like illness,General disorders and administration site conditions,5,14,Grade 1,No,No,Definitely,Definitely,Recovered or Resolved,MedDRA 25.0
+106-0010,068,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Diarrhoea,Gastrointestinal disorders,8,8,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+106-0010,068,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Arthralgia,Musculoskeletal and connective tissue disorders,14,30,Grade 2,No,No,Probably,Probably,Recovered or Resolved,MedDRA 25.0
+106-0010,068,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Decreased appetite,Metabolism and nutrition disorders,14,77,Grade 2,No,No,Definitely,Definitely,Recovered or Resolved,MedDRA 25.0
+106-0010,068,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Fatigue,General disorders and administration site conditions,14,36,Grade 2,No,No,Definitely,Definitely,Recovered or Resolved,MedDRA 25.0
+106-0010,068,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Hypertension,Vascular disorders,14,14,Grade 2,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+106-0010,068,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Transient ischaemic attack,Nervous system disorders,14,14,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+106-0010,068,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Hyponatraemia,Metabolism and nutrition disorders,22,24,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+106-0010,068,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Weight decreased,Investigations,22,36,Grade 1,No,No,Definitely,Definitely,Recovered or Resolved,MedDRA 25.0
+106-0010,068,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Hyponatraemia,Metabolism and nutrition disorders,24,30,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+106-0010,068,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Arthralgia,Musculoskeletal and connective tissue disorders,30,43,Grade 1,No,No,Definitely,Definitely,Recovered or Resolved,MedDRA 25.0
+106-0010,068,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Tooth infection,Infections and infestations,43,51,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+106-0010,068,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Toothache,Gastrointestinal disorders,43,77,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+106-0010,068,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Musculoskeletal chest pain,Musculoskeletal and connective tissue disorders,50,77,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+106-0010,068,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Headache,Nervous system disorders,97,97,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+106-0010,068,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Neutrophil count decreased,Investigations,121,142,Grade 1,No,No,Definitely,Definitely,Recovered or Resolved,MedDRA 25.0
+106-0010,068,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Age-related macular degeneration,Eye disorders,133,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+106-0010,068,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Retinal vascular disorder,Eye disorders,133,249,Grade 2,Yes,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+106-0012,069,CD8 LOW,Nivolumab + Ipilimumab,Cervix cancer metastatic,Aspartate aminotransferase increased,Investigations,8,NA,Grade 1,No,Yes,Definitely,Definitely,Not Recovered or Not Resolved,MedDRA 25.0
+106-0012,069,CD8 LOW,Nivolumab + Ipilimumab,Cervix cancer metastatic,Lymphocyte count decreased,Investigations,8,22,Grade 1,No,No,Definitely,Definitely,Recovered or Resolved,MedDRA 25.0
+106-0012,069,CD8 LOW,Nivolumab + Ipilimumab,Cervix cancer metastatic,Cough,"Respiratory, thoracic and mediastinal disorders",19,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+106-0012,069,CD8 LOW,Nivolumab + Ipilimumab,Cervix cancer metastatic,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",19,24,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+106-0012,069,CD8 LOW,Nivolumab + Ipilimumab,Cervix cancer metastatic,Lymphocyte count decreased,Investigations,22,NA,Grade 2,No,No,Definitely,Definitely,Not Recovered or Not Resolved,MedDRA 25.0
+106-0012,069,CD8 LOW,Nivolumab + Ipilimumab,Cervix cancer metastatic,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",24,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+106-0012,069,CD8 LOW,Nivolumab + Ipilimumab,Cervix cancer metastatic,Blood creatinine increased,Investigations,30,NA,Grade 1,No,No,Unlikely,Unlikely,Not Recovered or Not Resolved,MedDRA 25.0
+106-0012,069,CD8 LOW,Nivolumab + Ipilimumab,Cervix cancer metastatic,Large intestinal obstruction,Gastrointestinal disorders,51,NA,Grade 3,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,Diarrhoea,Gastrointestinal disorders,9,14,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,Lipase increased,Investigations,24,31,Grade 3,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,Hypothyroidism,Endocrine disorders,31,NA,Grade 2,No,Yes,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,Aspartate aminotransferase increased,Investigations,50,71,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,White blood cell count increased,Investigations,50,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,Lipase increased,Investigations,71,92,Grade 2,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,Back pain,Musculoskeletal and connective tissue disorders,92,140,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,Lichenoid keratosis,Skin and subcutaneous tissue disorders,92,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,Skin mass,Skin and subcutaneous tissue disorders,92,113,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,Temperature intolerance,General disorders and administration site conditions,92,NA,Grade 1,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,Constipation,Gastrointestinal disorders,113,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,Libido decreased,Psychiatric disorders,113,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,Lipase increased,Investigations,113,169,Grade 2,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,Dizziness,Nervous system disorders,141,169,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,Fatigue,General disorders and administration site conditions,141,169,Grade 2,No,No,Possibly,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,Groin pain,Musculoskeletal and connective tissue disorders,141,169,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,Headache,Nervous system disorders,141,169,Grade 1,No,No,Unlikely,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,Myalgia,Musculoskeletal and connective tissue disorders,141,169,Grade 1,No,No,Unlikely,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,Paraesthesia,Nervous system disorders,141,169,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,Alanine aminotransferase increased,Investigations,147,161,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,Adrenal insufficiency,Endocrine disorders,156,NA,Grade 2,No,Yes,Definitely,Definitely,Not Recovered or Not Resolved,MedDRA 25.0
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,Fatigue,General disorders and administration site conditions,169,191,Grade 1,No,No,Definitely,Definitely,Recovered or Resolved,MedDRA 25.0
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,Groin pain,Musculoskeletal and connective tissue disorders,169,191,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,Lipase increased,Investigations,169,191,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,Dehydration,Metabolism and nutrition disorders,547,554,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,Fatigue,General disorders and administration site conditions,554,583,Grade 3,No,No,Possibly,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,Lipase increased,Investigations,583,612,Grade 3,No,No,Unrelated,Unrelated,Recovered or Resolved with Sequelae,MedDRA 25.0
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,Lipase increased,Investigations,612,NA,Grade 2,No,No,Possibly,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Abdominal pain,Gastrointestinal disorders,6,8,Grade 3,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Diarrhoea,Gastrointestinal disorders,6,8,Grade 1,No,Yes,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Fatigue,General disorders and administration site conditions,6,8,Grade 3,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Lipase increased,Investigations,6,7,Grade 3,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Nausea,Gastrointestinal disorders,6,8,Grade 3,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Vomiting,Gastrointestinal disorders,6,8,Grade 3,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Anaemia,Blood and lymphatic system disorders,7,8,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Hypoalbuminaemia,Metabolism and nutrition disorders,7,8,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Lipase increased,Investigations,7,11,Grade 2,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Abdominal pain,Gastrointestinal disorders,8,12,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Fatigue,General disorders and administration site conditions,8,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Hyperphosphataemia,Metabolism and nutrition disorders,8,NA,Grade 1,No,No,Possibly,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Hypoalbuminaemia,Metabolism and nutrition disorders,8,11,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Hypocalcaemia,Metabolism and nutrition disorders,8,8,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Nausea,Gastrointestinal disorders,8,80,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Hypothyroidism,Endocrine disorders,10,NA,Grade 2,No,Yes,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Abdominal pain,Gastrointestinal disorders,11,14,Grade 3,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Dehydration,Metabolism and nutrition disorders,11,13,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Hypoalbuminaemia,Metabolism and nutrition disorders,11,22,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Lipase increased,Investigations,11,12,Grade 3,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Tachycardia,Cardiac disorders,11,12,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Lipase increased,Investigations,12,13,Grade 2,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Lipase increased,Investigations,13,43,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Abdominal pain,Gastrointestinal disorders,14,22,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Decreased appetite,Metabolism and nutrition disorders,22,43,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Hypoalbuminaemia,Metabolism and nutrition disorders,22,52,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Back pain,Musculoskeletal and connective tissue disorders,43,NA,Grade 1,No,No,Unlikely,Unlikely,Not Recovered or Not Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Decreased appetite,Metabolism and nutrition disorders,43,NA,Grade 3,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Dyspnoea,"Respiratory, thoracic and mediastinal disorders",43,NA,Grade 1,No,No,Possibly,Possibly,Not Recovered or Not Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Weight decreased,Investigations,43,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Abdominal pain,Gastrointestinal disorders,52,58,Grade 3,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Anaemia,Blood and lymphatic system disorders,52,66,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Hypoalbuminaemia,Metabolism and nutrition disorders,52,64,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Hypoalbuminaemia,Metabolism and nutrition disorders,64,66,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Abdominal pain,Gastrointestinal disorders,66,71,Grade 3,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Confusional state,Psychiatric disorders,66,71,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Enterocolitis infectious,Infections and infestations,66,71,Grade 2,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Hypoalbuminaemia,Metabolism and nutrition disorders,66,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Peritonitis,Infections and infestations,66,71,Grade 3,Yes,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,White blood cell count decreased,Investigations,66,71,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Hypertension,Vascular disorders,71,80,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Tachycardia,Cardiac disorders,71,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Abdominal pain,Gastrointestinal disorders,80,NA,Grade 3,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Colitis,Gastrointestinal disorders,80,NA,Grade 3,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Confusional state,Psychiatric disorders,80,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Hyponatraemia,Metabolism and nutrition disorders,80,NA,Grade 1,No,No,Unrelated,Unlikely,Not Recovered or Not Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Nausea,Gastrointestinal disorders,80,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Small intestinal obstruction,Gastrointestinal disorders,80,90,Grade 5,No,No,Unrelated,Unrelated,Fatal,MedDRA 25.0
+107-0004,072,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Dehydration,Metabolism and nutrition disorders,5,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+107-0004,072,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Decreased appetite,Metabolism and nutrition disorders,11,NA,Grade 3,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+107-0007,079,CD8 HIGH,Nivolumab,Head and neck cancer,Hypothyroidism,Endocrine disorders,-159,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+107-0007,079,CD8 HIGH,Nivolumab,Head and neck cancer,Neck pain,Musculoskeletal and connective tissue disorders,-29,87,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved with Sequelae,MedDRA 25.0
+107-0007,079,CD8 HIGH,Nivolumab,Head and neck cancer,Lymphoedema,Vascular disorders,-27,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+107-0007,079,CD8 HIGH,Nivolumab,Head and neck cancer,Hypertension,Vascular disorders,-1,65,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0007,079,CD8 HIGH,Nivolumab,Head and neck cancer,Pain in extremity,Musculoskeletal and connective tissue disorders,1,21,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0007,079,CD8 HIGH,Nivolumab,Head and neck cancer,White blood cell count decreased,Investigations,8,21,Grade 1,No,No,Unlikely,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0007,079,CD8 HIGH,Nivolumab,Head and neck cancer,Blood lactate dehydrogenase increased,Investigations,42,65,Grade 1,No,No,Possibly,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0007,079,CD8 HIGH,Nivolumab,Head and neck cancer,Trismus,Musculoskeletal and connective tissue disorders,65,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+107-0007,079,CD8 HIGH,Nivolumab,Head and neck cancer,Lymphocyte count decreased,Investigations,71,87,Grade 2,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+107-0007,079,CD8 HIGH,Nivolumab,Head and neck cancer,Anaemia,Blood and lymphatic system disorders,72,87,Grade 1,No,No,Possibly,Possibly,Recovered or Resolved,MedDRA 25.0
+107-0007,079,CD8 HIGH,Nivolumab,Head and neck cancer,Paraesthesia,Nervous system disorders,72,NA,Grade 1,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+107-0007,079,CD8 HIGH,Nivolumab,Head and neck cancer,Dizziness,Nervous system disorders,87,107,Grade 1,No,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0
+107-0007,079,CD8 HIGH,Nivolumab,Head and neck cancer,Headache,Nervous system disorders,87,NA,Grade 1,No,No,Unlikely,Unlikely,Not Recovered or Not Resolved,MedDRA 25.0
+107-0007,079,CD8 HIGH,Nivolumab,Head and neck cancer,Neck pain,Musculoskeletal and connective tissue disorders,87,NA,Grade 2,No,No,Unrelated,Unrelated,Not Recovered or Not Resolved,MedDRA 25.0
+107-0007,079,CD8 HIGH,Nivolumab,Head and neck cancer,Vision blurred,Eye disorders,87,107,Grade 1,No,No,Unlikely,Unlikely,Recovered or Resolved,MedDRA 25.0
+107-0007,079,CD8 HIGH,Nivolumab,Head and neck cancer,Cerebrovascular accident,Nervous system disorders,162,168,Grade 3,Yes,No,Unrelated,Unrelated,Recovered or Resolved,MedDRA 25.0

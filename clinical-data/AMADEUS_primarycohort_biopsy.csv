@@ -1,0 +1,137 @@
+subject.id,manuscript.id,arm,treatment,tumor.type,study.day.biopsy,biopsy.location,biopsy.target.lesion,cd8.percentage
+101-0001,001,CD8 LOW,Nivolumab + Ipilimumab,Pancreatic carcinoma,-21,Liver,Yes,6
+101-0001,001,CD8 LOW,Nivolumab + Ipilimumab,Pancreatic carcinoma,33,Liver,Yes,3
+101-0003,002,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,-19,Uterus,Yes,0
+101-0003,002,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,30,Uterus,Yes,8
+101-0004,003,CD8 LOW,Nivolumab + Ipilimumab,Cervix cancer metastatic,-28,Lung,Yes,13
+101-0005,004,CD8 LOW,Nivolumab + Ipilimumab,Breast cancer,-29,Breast,Yes,12
+101-0006,005,CD8 LOW,Nivolumab + Ipilimumab,Pancreatic carcinoma,-22,Liver,Yes,12
+101-0006,005,CD8 LOW,Nivolumab + Ipilimumab,Pancreatic carcinoma,64,Liver,Yes,28
+101-0007,006,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,-23,Abdominal Wall,Yes,1
+101-0007,006,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,28,LEFT CHEST WALL,No,30
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,-22,Abdominal Wall,Yes,11
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,22,Lymph Node(s),No,36
+101-0010,008,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,-21,Lymph Node(s),No,2
+101-0011,009,CD8 LOW,Nivolumab + Ipilimumab,Breast cancer,-15,Liver,Yes,5
+101-0011,009,CD8 LOW,Nivolumab + Ipilimumab,Breast cancer,40,Liver,No,5
+101-0013,010,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,-62,Abdominal Wall,No,0
+101-0013,010,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,25,Abdominal Wall,No,21
+101-0015,011,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,-27,Peritoneum,Yes,9
+101-0015,011,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,22,Pelvis,Yes,21
+101-0017,073,CD8 HIGH,Nivolumab,Ovarian cancer,-19,Lymph Node(s),Yes,19
+101-0017,073,CD8 HIGH,Nivolumab,Ovarian cancer,28,Lymph Node(s),Yes,25
+101-0019,012,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,-15,Lung,Yes,12
+101-0020,013,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,-21,Lymph Node(s),Yes,11
+102-0001,014,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,-6,Bone (w soft tissue component),No,1
+102-0001,014,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,40,Bone (w soft tissue component),No,6
+102-0006,015,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,-15,RETROPERITONEUM,No,10
+102-0010,016,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,-7,Liver,No,2
+102-0011,017,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,-7,Lymph Node(s),No,4
+102-0011,017,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,42,Lymph Node(s),No,9
+102-0013,018,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,-28,Liver,No,9
+102-0013,018,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,41,Liver,No,35
+102-0013,018,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,126,Liver,No,18
+102-0015,019,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,-7,Liver,No,0
+102-0015,019,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,40,Liver,No,2
+102-0016,020,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,-3,Pelvis,No,1
+102-0016,020,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,33,Pelvis,No,42
+102-0016,020,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,119,Bone (w soft tissue component),No,8
+102-0017,021,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,-6,Lymph Node(s),No,2
+102-0018,022,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,-13,Liver,No,9
+102-0019,023,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,-10,Pelvis,No,5
+102-0019,023,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,42,Bone (w soft tissue component),No,38
+102-0021,024,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,-7,Peritoneum,No,4
+102-0021,024,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,23,Peritoneum,No,11
+102-0021,024,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,128,Peritoneum,No,22
+102-0023,025,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,-8,Lymph Node(s),No,4
+102-0024,026,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,-32,Bone (w/out soft tissue component),No,9
+102-0025,027,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,-14,Peritoneum,No,0
+102-0025,027,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,62,Pelvis,No,1
+102-0025,027,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,124,Pelvis,No,1
+102-0026,028,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,-5,Peritoneum,No,14
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,-7,LEFT CHEST WALL,No,1
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,22,Muscle,No,6
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,127,CHEST WALL LESION,No,5
+102-0029,030,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,-12,Liver,No,0
+102-0029,030,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,42,Liver,No,2
+102-0029,030,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,116,Liver,No,0
+102-0030,031,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,-6,Pelvis,No,2
+102-0031,032,CD8 LOW,Nivolumab + Ipilimumab,Breast cancer,-14,Head and Neck,No,8
+102-0032,033,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,-7,Liver,No,11
+102-0033,034,CD8 LOW,Nivolumab + Ipilimumab,Hepatocellular carcinoma,-5,Liver,No,1
+102-0033,034,CD8 LOW,Nivolumab + Ipilimumab,Hepatocellular carcinoma,27,Liver,No,0
+102-0035,035,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,-8,HEAD AND NECK,No,1
+102-0035,035,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,35,Lymph Node(s),No,2
+102-0037,036,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,-7,Liver,No,0
+102-0037,036,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,39,Liver,No,41
+102-0037,036,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,179,Liver,No,23
+102-0038,037,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,-5,Lymph Node(s),No,1
+102-0038,037,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,30,RIGHT AXILLARY LESION,No,5
+102-0039,038,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,-7,Liver,No,5
+102-0041,074,CD8 HIGH,Nivolumab,Head and neck cancer,-4,Head and Neck,No,36
+102-0042,039,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,-7,Lung,No,1
+102-0042,039,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,29,Lung,No,18
+102-0044,075,CD8 HIGH,Nivolumab,Head and neck cancer,-6,CHEST WALL,No,16
+102-0044,075,CD8 HIGH,Nivolumab,Head and neck cancer,30,CHEST WALL,No,33
+102-0045,040,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,-14,Pelvis,No,4
+102-0046,041,CD8 LOW,Nivolumab + Ipilimumab,Pelvic neoplasm,-16,Lung,No,2
+102-0048,042,CD8 LOW,Nivolumab + Ipilimumab,Pelvic neoplasm,-10,Pelvis,No,4
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,-21,Peritoneum,No,1
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,32,Peritoneum,No,1
+103-0003,076,CD8 HIGH,Nivolumab,Gastrooesophageal cancer,-12,Lymph Node(s),No,22
+103-0003,076,CD8 HIGH,Nivolumab,Gastrooesophageal cancer,22,Lymph Node(s),Yes,42
+103-0003,076,CD8 HIGH,Nivolumab,Gastrooesophageal cancer,295,Lymph Node(s),Yes,10
+104-0001,044,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,-16,Liver,Yes,8
+104-0002,045,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,-15,Lung,Yes,5
+104-0005,046,CD8 LOW,Nivolumab + Ipilimumab,Renal cancer,-24,Lung,Yes,6
+104-0006,047,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,-13,Liver,Yes,6
+104-0007,048,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,-17,Lung,Yes,5
+104-0007,048,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,39,Lung,No,1
+104-0008,077,CD8 HIGH,Nivolumab,Urethral cancer,-16,Lymph Node(s),No,17
+104-0008,077,CD8 HIGH,Nivolumab,Urethral cancer,33,Lymph Node(s),No,19
+104-0009,049,CD8 LOW,Nivolumab + Ipilimumab,Penile cancer,-22,Lung,Yes,12
+104-0009,049,CD8 LOW,Nivolumab + Ipilimumab,Penile cancer,25,Lung,Yes,7
+104-0009,049,CD8 LOW,Nivolumab + Ipilimumab,Penile cancer,134,Lung,Yes,2
+104-0010,050,CD8 LOW,Nivolumab + Ipilimumab,Renal cancer,-14,Kidney,No,3
+104-0010,050,CD8 LOW,Nivolumab + Ipilimumab,Renal cancer,26,Kidney,No,4
+104-0010,050,CD8 LOW,Nivolumab + Ipilimumab,Renal cancer,111,Kidney,Yes,3
+104-0014,051,CD8 LOW,Nivolumab + Ipilimumab,Tumour of ampulla of Vater,-16,Lung,Yes,6
+104-0015,052,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,-8,Liver,Yes,1
+104-0015,052,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,25,Liver,Yes,9
+104-0015,052,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,109,Liver,Yes,2
+104-0016,053,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,-11,Abdominal Wall,Yes,2
+104-0018,054,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,-7,Lung,Yes,1
+104-0018,054,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,29,Lung,Yes,8
+104-0020,055,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,-10,Lymph Node(s),No,1
+104-0020,055,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,110,Peritoneum,Yes,1
+104-0021,056,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,-17,Pelvis,Yes,4
+104-0021,056,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,23,Lymph Node(s),Yes,16
+104-0022,057,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,-12,Pelvis,Yes,7
+104-0022,057,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,23,Pelvis,Yes,3
+104-0023,058,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,-8,Liver,Yes,0
+104-0023,058,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,26,Liver,Yes,0
+104-0024,078,CD8 HIGH,Nivolumab,Renal cancer,-11,Lung,Yes,22
+104-0024,078,CD8 HIGH,Nivolumab,Renal cancer,94,RIB LESION,No,2
+104-0025,059,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,-16,Lymph Node(s),No,13
+104-0026,060,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,-16,Rectum,Yes,2
+104-0026,060,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,33,Rectum,Yes,3
+106-0001,061,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,-18,Peritoneum,No,3
+106-0001,061,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,25,Peritoneum,No,12
+106-0002,062,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,-21,RIGHT CHEST WALL,No,1
+106-0002,062,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,31,RIGHT CHEST WALL,No,1
+106-0003,063,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,-20,Lung,No,7
+106-0005,064,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,-13,Lung,No,0
+106-0006,065,CD8 LOW,Nivolumab + Ipilimumab,Teratoma,-8,Peritoneum,No,3
+106-0006,065,CD8 LOW,Nivolumab + Ipilimumab,Teratoma,24,ABDOMINAL/RETROPERITONEAL,No,5
+106-0006,065,CD8 LOW,Nivolumab + Ipilimumab,Teratoma,107,LEFT LOWER QUADRANT ABDOMEN,No,18
+106-0008,066,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,-18,Lung,No,5
+106-0008,066,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,24,Lung,No,12
+106-0009,067,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,-12,Liver,No,3
+106-0010,068,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,-12,Lymph Node(s),No,13
+106-0010,068,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,37,Lymph Node(s),No,28
+106-0010,068,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,122,Lymph Node(s),No,24
+106-0012,069,CD8 LOW,Nivolumab + Ipilimumab,Cervix cancer metastatic,-11,Lung,No,13
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,-13,Skin,No,6
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,-17,Stomach,No,12
+107-0004,072,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,-9,Head and Neck,No,2
+107-0007,079,CD8 HIGH,Nivolumab,Head and neck cancer,-8,Lymph Node(s),Yes,23

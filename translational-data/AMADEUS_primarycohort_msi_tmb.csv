@@ -1,0 +1,47 @@
+subject.id,manuscript.id,arm,treatment,tumor.type,msi,tmb,tmb.categories,best.overall.response,responder.flag.crpr,disease.control.flag,cd8.converter.flag
+101-0001,001,CD8 LOW,Nivolumab + Ipilimumab,Pancreatic carcinoma,MSI-L,0.97,TMB.low,NA,N,N,N
+101-0007,006,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,MSI-L,0.69,TMB.low,Partial Response,Y,Y,Y
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,MSI-Stable,3.5,TMB.low,Complete Response,Y,Y,Y
+101-0011,009,CD8 LOW,Nivolumab + Ipilimumab,Breast cancer,MSI-Stable,0.45,TMB.low,Progressive Disease,N,N,N
+101-0017,073,CD8 HIGH,Nivolumab,Ovarian cancer,MSI-Stable,1.14,TMB.low,Stable Disease,N,N,NA
+102-0001,014,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,MSI-L,1.01,TMB.low,Progressive Disease,N,N,N
+102-0006,015,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,MSI-Stable,2.44,TMB.low,NA,N,N,NA
+102-0010,016,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,MSI-Stable,1.91,TMB.low,Progressive Disease,N,N,NA
+102-0011,017,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,MSI-Stable,0.5,TMB.low,Progressive Disease,N,N,N
+102-0013,018,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,MSI-Stable,1.25,TMB.low,Stable Disease,N,N,Y
+102-0015,019,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,MSI-Stable,0.8,TMB.low,Stable Disease,N,N,N
+102-0016,020,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,MSI-H,1.4,TMB.low,Progressive Disease,N,N,Y
+102-0017,021,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,MSI-Stable,0.79,TMB.low,NA,N,N,NA
+102-0018,022,CD8 LOW,Nivolumab + Ipilimumab,Mixed hepatocellular cholangiocarcinoma,MSI-Stable,0.76,TMB.low,Progressive Disease,N,N,NA
+102-0019,023,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,MSI-Stable,1.02,TMB.low,Progressive Disease,N,N,Y
+102-0021,024,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,MSI-H,16.2,TMB.high,Partial Response,Y,Y,Y
+102-0023,025,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,MSI-Stable,17.95,TMB.high,NA,N,N,NA
+102-0024,026,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,MSI-Stable,16.13,TMB.high,Stable Disease,N,N,NA
+102-0025,027,CD8 LOW,Nivolumab + Ipilimumab,Peritoneal sarcoma,MSI-Stable,0.57,TMB.low,Progressive Disease,N,N,N
+102-0026,028,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,MSI-H,17.95,TMB.high,NA,N,N,NA
+102-0027,029,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,MSI-H,16.64,TMB.high,Partial Response,Y,Y,N
+102-0029,030,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,MSI-L,16.05,TMB.high,Partial Response,Y,Y,N
+102-0032,033,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,MSI-Stable,0.88,TMB.low,Progressive Disease,N,N,NA
+102-0033,034,CD8 LOW,Nivolumab + Ipilimumab,Hepatocellular carcinoma,MSI-Stable,1.75,TMB.low,Progressive Disease,N,N,N
+102-0035,035,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,MSI-L,1.41,TMB.low,Progressive Disease,N,N,N
+102-0038,037,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,MSI-L,3.06,TMB.low,Stable Disease,N,N,N
+102-0041,074,CD8 HIGH,Nivolumab,Head and neck cancer,MSI-Stable,1.43,TMB.low,Progressive Disease,N,N,NA
+102-0042,039,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,MSI-Stable,0.37,TMB.low,Progressive Disease,N,N,Y
+102-0044,075,CD8 HIGH,Nivolumab,Head and neck cancer,MSI-Stable,4.88,TMB.low,Stable Disease,N,N,NA
+102-0048,042,CD8 LOW,Nivolumab + Ipilimumab,Pelvic neoplasm,MSI-Stable,0.89,TMB.low,NA,N,N,NA
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,MSI-Stable,0.62,TMB.low,Progressive Disease,N,N,N
+103-0003,076,CD8 HIGH,Nivolumab,Gastrooesophageal cancer,MSI-Stable,2.83,TMB.low,Partial Response,Y,Y,NA
+104-0001,044,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,MSI-Stable,0.85,TMB.low,NA,N,N,NA
+104-0008,077,CD8 HIGH,Nivolumab,Urethral cancer,MSI-Stable,2.46,TMB.low,Progressive Disease,N,N,NA
+104-0015,052,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,MSI-Stable,0.33,TMB.low,Stable Disease,N,N,N
+104-0016,053,CD8 LOW,Nivolumab + Ipilimumab,Uterine cancer,MSI-L,2.13,TMB.low,NA,N,N,NA
+104-0020,055,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,MSI-Stable,0.7,TMB.low,Stable Disease,N,Y,N
+104-0021,056,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,MSI-Stable,0.84,TMB.low,Partial Response,Y,Y,Y
+104-0023,058,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,MSI-L,0.87,TMB.low,NA,N,N,N
+106-0002,062,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,MSI-Stable,0.79,TMB.low,NA,N,N,N
+106-0005,064,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,MSI-L,0.46,TMB.low,NA,N,N,NA
+106-0009,067,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,MSI-Stable,0.72,TMB.low,Stable Disease,N,N,NA
+106-0010,068,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,MSI-Stable,1.14,TMB.low,Partial Response,Y,Y,Y
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,MSI-Stable,20.46,TMB.high,Partial Response,Y,Y,NA
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,MSI-Stable,0.16,TMB.low,Stable Disease,N,N,NA
+107-0007,079,CD8 HIGH,Nivolumab,Head and neck cancer,MSI-L,2.3,TMB.low,Progressive Disease,N,N,NA

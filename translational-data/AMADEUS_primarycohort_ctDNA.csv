@@ -1,0 +1,58 @@
+subject.id,manuscript.id,arm,treatment,tumor.type,timepoint.id,ctDNA.tumor.molecules.per.mL.plasma,best.overall.response,responder.flag.crpr,disease.control.flag,cd8.converter.flag
+101-0001,001,CD8 LOW,Nivolumab + Ipilimumab,Pancreatic carcinoma,Baseline,4.76875,NA,N,N,N
+101-0001,001,CD8 LOW,Nivolumab + Ipilimumab,Pancreatic carcinoma,Cycle2.Day1,83.81375,NA,N,N,N
+101-0006,005,CD8 LOW,Nivolumab + Ipilimumab,Pancreatic carcinoma,Baseline,22.334375,Progressive Disease,N,N,Y
+101-0006,005,CD8 LOW,Nivolumab + Ipilimumab,Pancreatic carcinoma,Cycle2.Day1,36.703125,Progressive Disease,N,N,Y
+101-0007,006,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Baseline,83.200625,Partial Response,Y,Y,Y
+101-0007,006,CD8 LOW,Nivolumab + Ipilimumab,Non-small cell lung cancer,Cycle2.Day1,12.535625,Partial Response,Y,Y,Y
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Baseline,240.943125,Complete Response,Y,Y,Y
+101-0008,007,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Cycle2.Day1,19.616875,Complete Response,Y,Y,Y
+101-0011,009,CD8 LOW,Nivolumab + Ipilimumab,Breast cancer,Baseline,94.736875,Progressive Disease,N,N,N
+101-0011,009,CD8 LOW,Nivolumab + Ipilimumab,Breast cancer,Cycle2.Day1,52.58125,Progressive Disease,N,N,N
+101-0015,011,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Baseline,737.725,Stable Disease,N,N,Y
+101-0015,011,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Cycle2.Day1,65.89375,Stable Disease,N,N,Y
+101-0017,073,CD8 HIGH,Nivolumab,Ovarian cancer,Baseline,96.25,Stable Disease,N,N,NA
+102-0013,018,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Baseline,284.015,Stable Disease,N,N,Y
+102-0013,018,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Cycle2.Day1,33.623125,Stable Disease,N,N,Y
+102-0029,030,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Baseline,337.684375,Partial Response,Y,Y,N
+102-0029,030,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Cycle2.Day1,132.27875,Partial Response,Y,Y,N
+102-0030,031,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Baseline,9.669375,Partial Response,Y,Y,NA
+102-0032,033,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Baseline,17399.675,Progressive Disease,N,N,NA
+102-0032,033,CD8 LOW,Nivolumab + Ipilimumab,Colorectal cancer,Cycle2.Day1,17495.75,Progressive Disease,N,N,NA
+102-0033,034,CD8 LOW,Nivolumab + Ipilimumab,Hepatocellular carcinoma,Baseline,648.023125,Progressive Disease,N,N,N
+102-0033,034,CD8 LOW,Nivolumab + Ipilimumab,Hepatocellular carcinoma,Cycle2.Day1,486.901875,Progressive Disease,N,N,N
+102-0035,035,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Baseline,2.23125,Progressive Disease,N,N,N
+102-0035,035,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Cycle2.Day1,1.61875,Progressive Disease,N,N,N
+102-0037,036,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Baseline,0,Partial Response,Y,Y,Y
+102-0037,036,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma,Cycle2.Day1,0,Partial Response,Y,Y,Y
+102-0038,037,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Baseline,1115.8125,Stable Disease,N,N,N
+102-0038,037,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Cycle2.Day1,1180.79375,Stable Disease,N,N,N
+102-0041,074,CD8 HIGH,Nivolumab,Head and neck cancer,Baseline,77.975,Progressive Disease,N,N,NA
+102-0041,074,CD8 HIGH,Nivolumab,Head and neck cancer,Cycle2.Day1,22.48125,Progressive Disease,N,N,NA
+102-0042,039,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Baseline,3.03125,Progressive Disease,N,N,Y
+102-0042,039,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Cycle2.Day1,0.725,Progressive Disease,N,N,Y
+102-0044,075,CD8 HIGH,Nivolumab,Head and neck cancer,Baseline,15.603125,Stable Disease,N,N,NA
+102-0044,075,CD8 HIGH,Nivolumab,Head and neck cancer,Cycle2.Day1,22.775625,Stable Disease,N,N,NA
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Baseline,0,Progressive Disease,N,N,N
+103-0001,043,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Cycle2.Day1,6.7125,Progressive Disease,N,N,N
+103-0003,076,CD8 HIGH,Nivolumab,Gastrooesophageal cancer,Baseline,1298.2125,Partial Response,Y,Y,NA
+103-0003,076,CD8 HIGH,Nivolumab,Gastrooesophageal cancer,Cycle2.Day1,1.51875,Partial Response,Y,Y,NA
+104-0001,044,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Baseline,1743.991875,NA,N,N,NA
+104-0001,044,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Cycle2.Day1,7344.68375,NA,N,N,NA
+104-0015,052,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Baseline,10.944375,Stable Disease,N,N,N
+104-0015,052,CD8 LOW,Nivolumab + Ipilimumab,Thyroid cancer,Cycle2.Day1,97.146875,Stable Disease,N,N,N
+104-0020,055,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Baseline,9.669375,Stable Disease,N,Y,N
+104-0020,055,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Cycle2.Day1,12.696875,Stable Disease,N,Y,N
+104-0021,056,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Baseline,124.613125,Partial Response,Y,Y,Y
+104-0021,056,CD8 LOW,Nivolumab + Ipilimumab,Prostate cancer,Cycle2.Day1,0.165625,Partial Response,Y,Y,Y
+106-0002,062,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Baseline,2360.96875,NA,N,N,N
+106-0002,062,CD8 LOW,Nivolumab + Ipilimumab,Head and neck cancer,Cycle2.Day1,2370.65,NA,N,N,N
+106-0009,067,CD8 LOW,Nivolumab + Ipilimumab,Sarcoma,Baseline,229.35625,Stable Disease,N,N,NA
+106-0010,068,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Baseline,480.35,Partial Response,Y,Y,Y
+106-0010,068,CD8 LOW,Nivolumab + Ipilimumab,Ovarian cancer,Cycle2.Day1,7.688125,Partial Response,Y,Y,Y
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,Baseline,4.311875,Partial Response,Y,Y,NA
+107-0001,070,CD8 LOW,Nivolumab + Ipilimumab,Neuroendocrine carcinoma of the skin,Cycle2.Day1,0,Partial Response,Y,Y,NA
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Baseline,0,Stable Disease,N,N,NA
+107-0003,071,CD8 LOW,Nivolumab + Ipilimumab,Gastric cancer,Cycle2.Day1,0,Stable Disease,N,N,NA
+107-0007,079,CD8 HIGH,Nivolumab,Head and neck cancer,Baseline,10.2125,Progressive Disease,N,N,NA
+107-0007,079,CD8 HIGH,Nivolumab,Head and neck cancer,Cycle2.Day1,3.8625,Progressive Disease,N,N,NA
