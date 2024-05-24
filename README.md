@@ -175,6 +175,38 @@ used in the above publication.
 * cd8.converter.flag = "Y" represents a CD8 LOW subject with a baseline CD8 <15% and on-treatment CD8 >= 15%. "N" represents an on-treatment CD8 < 15% and "NA" represents subjects in the CD8 HIGH arm (>=15% at baseline) or those without an on-treatment biopsy.
 
 
+#### RNAseq, Baseline Samples: AMADEUS_primarycohort_rnaseq_baseline.csv
+* subject.id = Deidentified Subject ID
+* manuscript.id = Deidentified Subject ID reported in the manuscript
+* arm = Treatment Group (CD8 LOW or CD8 HIGH)
+* treatment = Treatment Regimen
+* tumor.type = Type of Cancer
+* timepoint.id = Timepoint of Biopsy Collection
+* gene.name = Gene Name
+* raw.count = Raw Counts
+* TPM.transcript.per.million = Transcripts per Million (TPM) Value
+* best.overall.response	= Best Overall Response by RECIST
+* responder.flag.crpc = "Y" represents a best overall response of Complete or Partial Response
+* disease.control.flag = "Y" represents a best overall response of Complete or Partial Response or Stable Disease >= 6 months
+* cd8.converter.flag = "Y" represents a CD8 LOW subject with a baseline CD8 <15% and on-treatment CD8 >= 15%. "N" represents an on-treatment CD8 < 15% and "NA" represents subjects in the CD8 HIGH arm (>=15% at baseline) or those without an on-treatment biopsy.
+
+
+#### RNAseq, On-Treatment Samples: AMADEUS_primarycohort_rnaseq_ontreatment.csv
+* subject.id = Deidentified Subject ID
+* manuscript.id = Deidentified Subject ID reported in the manuscript
+* arm = Treatment Group (CD8 LOW or CD8 HIGH)
+* treatment = Treatment Regimen
+* tumor.type = Type of Cancer
+* timepoint.id = Timepoint of Biopsy Collection
+* gene.name = Gene Name
+* raw.count = Raw Counts
+* TPM.transcript.per.million = Transcripts per Million (TPM) Value
+* best.overall.response	= Best Overall Response by RECIST
+* responder.flag.crpc = "Y" represents a best overall response of Complete or Partial Response
+* disease.control.flag = "Y" represents a best overall response of Complete or Partial Response or Stable Disease >= 6 months
+* cd8.converter.flag = "Y" represents a CD8 LOW subject with a baseline CD8 <15% and on-treatment CD8 >= 15%. "N" represents an on-treatment CD8 < 15% and "NA" represents subjects in the CD8 HIGH arm (>=15% at baseline) or those without an on-treatment biopsy.
+
+
 #### TCR Sequencing: AMADEUS_primarycohort_tcr.csv
 * subject.id = Deidentified Subject ID
 * manuscript.id = Deidentified Subject ID reported in the manuscript
