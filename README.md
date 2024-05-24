@@ -15,138 +15,212 @@ from the AMADEUS Trial. Submitted.
 
 
 
-This repo contains the select, processed translational data and accompanying 
-clinical/metadata that was used in the above publication.
+This repo contains the select, processed clinical and translational data that was 
+used in the above publication.
+
 
 ## DATA DICTIONARY
-### Clinical
-#### PICI0002_Labs_2021-03-24.csv
-* Deidentified.ID	= Deidentified Subject ID
-* Visit = Cycle Timing of Lab Test
-* Study Day	= Equivalent Study Day of Lab test
-* Lab Test = Lab Test Name
-* Result = Value of Lab Test
-* Units	= Units of Lab Test
-* Normal Range - Low	= Low limit of normal range
-* Normal Range - High	= High limit of normal range
-* Result in Standard Units	= Value of Lab Test in Standard Units
-* Standard Units	= Standard Units
-* Standard Normal Range - Low	= Low limit of normal range with standard units
-* Standard Normal Range - High = High limit of normal range with standard units
-* Reference Range Indicator	= HIGH/NORMAL/LOW for how lab test fell in range
-* Baseline Flag = Y(Yes) if there were abnormal baseline levels
-
-#### PICI0002_ph2_clinical.csv
-* Deidentified.ID	= Deidentified Subject ID
-* Age	= Age
-* Sex	= Sex
-* Race	= Race
-* Ethnicity	= Ethnicity
-* HEIGHT (cm)	= Height in centimeters
-* WEIGHT (lb)	= Weight in pounds
-* Arm	= Randomized Enrollment Arm
-* Arm Description	= Description of Arm
-* Actual Arm	= Actual Arm based on treatment received
-* Phase = Phase of Study When Patient Enrolled (Phase 1b/Phase 2)
-* Participant Dosed	= Yes(Y)/No(N) if patient received any study agent
-* Received APX005M		= Yes(Y)/No(N) if patient received sotigalimab
-* Received Nivolumab		= Yes(Y)/No(N) if patient received nivolumab
-* DLT Evaluable = Dose limiting toxicity evaluable
-* Efficacy Population Flag	= Yes(Y)/No(N) Efficacy Population Flag
-* Cancer Type = Type of Cancer (Adenocarcinoma)
-* Cancer Location = Site of Cancer in Pancrease (Head/Body/Tail)
-* Stage at Initial Diagnosis	= Stage of disease when initially diagnosed (de novo vs recurrent)
-* Stage at Enrollment	= Stage of disease on enrollment
-* Prior Cancer Surgery	= History of cancer surgery prior to study enrollment
-* Prior Radiation	= Use of radiation prior to study enrollment
-* Prior Chemo = Use of chemotherapy prior to study enrollment
-* ECOG at Screening = Eastern Cooperative Oncology Group (ECOG) Performance Status Scale at Screening
-* Tobacco History = History of Tobacco Usage e.g Smoking
-* Hematocrit (%) at Baseline	= Percentage by volume of red blood cells in blood at baseline
-* BOR	= Best Overall Response by RECIST
-* OS (days)	= Overall Survival
-* OS Event	= Death Event
-* PFS (days) = Progression free survival (days)
-* PFS Event = Progression Event
-* PFS Reason = reason for leaving study
-
-### CyTOF
-#### NatureMed_CyTOF_metadata.csv
-* Deidentified.ID	= Deidentified Subject ID
-* sample.id	= sample identifier
-* ms = sample type/assay/%parent(par)/%leukocyte(leuk)
-* timepoint.id = timepoint of blood collection
-#### NatureMed_CyTOF_select_cell_populations.csv
-* sample.id	= sample identifier
-* value = fraction of population (parent or leukocyte respectively)
-* paper.name = Naming of cell population from publication
-#### NatureMed_CyTOF_select_MSI.csv
-* sample.id	= sample identifier
-* value = relative median signal intensity (arcsinh transformed raw intensity/150, normalized relative to upper (0.9) and lower (0.1) quantiles)
-* epitope.id	= UniProt Protein Name
-* paper.name = Naming of cell population from publication
-
-### Olink
-#### NatureMed_Olink_metadata.csv
-* Deidentified.ID	= Deidentified Subject ID
-* sample.id	= sample identifier
-* ms = sample type/assay
-* timepoint.id = timepoint of blood collection
-#### NatureMed_Olink_select_proteins.csv
-* sample.id	= sample identifier
-* value	= log2(NPX) - Normalized Protein Expression from Olink
-* paper.name = Name used for protein from publication
+### clinical-data
+#### Subject-Level Data: AMADEUS_primarycohort_subject.csv
+* subject.id = Deidentified Subject ID
+* manuscript.id = Deidentified Subject ID reported in the manuscript
+* arm = Treatment Group (CD8 LOW or CD8 HIGH)
+* treatment = Treatment Regimen
+* crossover.to.ipi.nivo = "Y" indicates the subject was enrolled to the CD8 HIGH group and subsequently crossed over and received nivolumab + ipilimumab
+* crossover.day = Study Day of First Nivolumab + Ipilimumab Dose
+* age	= Age
+* sex	= Sex
+* race = Race
+* ethnicity	= Ethnicity
+* tumor.type = Type of Cancer
+* tumor.type.abbr = Abbreviation of tumor.type
+* prior.lines.of.therapy = prior lines of cancer therapy
+* ecog.screening = Eastern Cooperative Oncology Group (ECOG) Performance Status at Screening
+* stage.at.diagnosis	= Stage of disease when initially diagnosed 
+* stage.at.enrollment	= Stage of disease at study enrollment
+* treatment.duration.months = Time in months from first dose of study drug to last dose
+* cd8.percent.baseline = Tumoral CD8 Percentage by IHC at Baseline / Screening
+* cd8.percent.max.ontrt = Tumoral CD8 Percentage by IHC On-Treatment. If multiple on-treatment CD8 results were obtained, the maximum is reported.
+* best.overall.response	= Best Overall Response by RECIST
+* pfs.months = Progression free survival (months)
+* pfs.event.flag = "0" represents a censored value, "1" represents a PFS event was observed
+* os.months	= Overall Survival (months)
+* os.event.flag	= "0" represents a censored value, "1" represents an OS event (death) was observed
+* responder.flag.crpc = "Y" represents a best overall response of Complete or Partial Response
+* disease.control.flag = "Y" represents a best overall response of Complete or Partial Response or Stable Disease >= 6 months
+* cd8.converter.flag = "Y" represents a CD8 LOW subject with a baseline CD8 <15% and on-treatment CD8 >= 15%. "N" represents an on-treatment CD8 < 15% and "NA" represents subjects in the CD8 HIGH arm (>=15% at baseline) or those without an on-treatment biopsy.
 
 
-### RNAseq
-#### NatureMed_GX_ph2_metadata
-* Deidentified.ID	= Deidentified Subject ID
-* sample.id	= sample identifier
-* timepoint.id = timepoint of tumor biopsy
-* filename = Name of respective processed data file
-* gdc.anatomic.site.name	= GDC Anatomic Site of Biopsy
-#### Data files
-* Gene Symbol = Gene Symbol
-* NCBI Gene ID	= NCBI Gene Symbol
-* RNA-Seq Raw Counts	= Raw Counts
-* FPKM	= Fragments Per Kilobase of transcript per Million mapped reads
-* CPM	= Reads per million mapped reads or Counts per million mapped reads
-* TPM	= Transcripts per million
-* Percentile Rank = Percentile Rank
-* Is Expressed =	Yes/No if gene is expressed
-* sample = sample identifier
+#### Adverse Events: AMADEUS_primarycohort_ae.csv
+* subject.id = Deidentified Subject ID
+* manuscript.id = Deidentified Subject ID reported in the manuscript
+* arm = Treatment Group (CD8 LOW or CD8 HIGH)
+* treatment = Treatment Regimen
+* tumor.type = Type of Cancer
+* ae.coded.preferred.term = AE Preferred Term, coded using dictionary MedDRA v25.0
+* ae.coded.soc = AE System Organ Class, coded using dictionary MedDRA v25.0
+* study.day.start = Study Day of AE Start
+* study.day.end = Study Day of AE End. "NA" represents an event that was ongoing at time of study discontinuation.
+* ae.severity = AE Severity Grade
+* ae.serious = "Yes" represents the AE was a Serious Adverse Event (SAE)
+* immune.related.ae = "Yes" represents the AE met criteria for an immune related AE (irAE)
+* ae.relationship.to.nivolumab = Investigator-assessed Relationship to nivolumab
+* ae.relationship.to.ipilimumab = Investigator-assessed Relationship to ipilimumab
+* ae.outcome = AE Outcome
+* coding.dictionary = Dictionary that AE Terms were Coded to (MedDRA v25.0)
+  
 
-### Vectra
-#### NatureMed_Vectra_metadata.csv
-* Deidentified.ID	= Deidentified Subject ID
-* sample.id	= sample identifier
-* ms	= sample type/assay/%parent(par)/%total(tot)
-* timepoint.id = timepoint of tumor biopsy
-#### NatureMed_Vectra_select_cell_counts.csv
-* sample.id	= sample identifier
-* assay.name	= Vectra assay
-* value	= median cell count across all regions of interest (ROI)
-* timepoint.id = timepoint of tumor biopsy
-* gdc.anatomic.site.name	= GDC Anatomic Site of Biopsy
-* variable = Naming of cell population from publication
-#### NatureMed_Vectra_select_cell_populations.csv
-* sample.id	= sample identifier	
-* median.value = median fraction of population parent/total across all regions of interest (ROI)
-* variable = Naming of cell population from publication
+#### Biopsy Data: AMADEUS_primarycohort_biopsy.csv
+* subject.id = Deidentified Subject ID
+* manuscript.id = Deidentified Subject ID reported in the manuscript
+* arm = Treatment Group (CD8 LOW or CD8 HIGH)
+* treatment = Treatment Regimen
+* tumor.type = Type of Cancer
+* study.day.biopsy = Study Day of Tumor Biopsy
+* biopsy.location = Anatomical Location of Biopsy
+* biopsy.target.lesion = "Yes" represents that the biopsy was taken from a target lesion
+* cd8.percentage = Tumoral CD8 Percentage by IHC
+  
+
+#### Clinical Labs: AMADEUS_primarycohort_labs.csv
+* subject.id = Deidentified Subject ID
+* manuscript.id = Deidentified Subject ID reported in the manuscript
+* arm = Treatment Group (CD8 LOW or CD8 HIGH)
+* treatment = Treatment Regimen
+* visit = Visit Name when Lab Test was Performed
+* study.day	= Study Day of Lab Test
+* lab.category = Lab Test Type (Chemistry, Hematology, Thyroid Function Testing)
+* lab.test = Lab Test Name
+* lab.value = Value of Lab Test
+* lab.unit = Units of Lab Test
+* lower.limit.normal	= Lower Limit of Normal Range
+* upper.limit.normal	= Upper Limit of Normal Range
 
 
-### X50
-#### NatureMed_X50_metadata.csv
-* Deidentified.ID	= Deidentified Subject ID
-* sample.id	= sample identifier
-* ms = sample type/assay/%parent(par)/%leukocyte(leuk)
-* timepoint.id = timepoint of blood collection
-#### NatureMed_X50_select_cell_populations.csv
-* sample.id = sample identifier
-* value = fraction of population (parent or leukocyte respectively)
-* paper.name = Naming of cell population from publication
-#### NatureMed_X50_select_MFI.csv
-* sample.id	= sample identifier
-* value = relative median fluorescence intensity (arcsinh transformed raw intensity/150, normalized relative to upper (0.9) and lower (0.1) quantiles)
-* epitope.id	= UniProt Protein Name
-* paper.name = Naming of cell population from publication
+#### Prior Therapies: AMADEUS_primarycohort_priortherapy.csv
+* subject.id = Deidentified Subject ID
+* manuscript.id = Deidentified Subject ID reported in the manuscript
+* arm = Treatment Group (CD8 LOW or CD8 HIGH)
+* treatment = Treatment Regimen
+* tumor.type = Type of Cancer
+* therapy.type = Type of Prior Therapy (Systemic Treatment, Surgery, Radiation)
+* therapy.line = Line of Therapy
+* therapy.setting = Therapy Setting
+* study.day.start = Study Day Prior Therapy Started
+* study.day.end = Study Day Prior Therapy Ended
+* therapy.verbatim.name = Verbatim (site-reported) Name of Therapy
+* therapy.coded.preferred.name = Therapy Preferred Name, coded using dictionary WHODrug
+* therapy.coded.trade.name = Therapy Trade Name, coded using dictionary WHODrug
+* coding.dictionary = Dictionary that Prior Therapies were Coded to (WHODrug-Global-B3 September 2021)
+* therapy.best.response = Best Response to the Therapy
+
+
+### translational-data
+#### ctDNA: AMADEUS_primarycohort_ctDNA.csv
+* subject.id = Deidentified Subject ID
+* manuscript.id = Deidentified Subject ID reported in the manuscript
+* arm = Treatment Group (CD8 LOW or CD8 HIGH)
+* treatment = Treatment Regimen
+* tumor.type = Type of Cancer
+* timepoint.id = Timepoint of Blood Collection
+* ctDNA.tumor.molecules.per.mL.plasma = ctDNA Value, measured as Tumor Molecules per mL of Plasma
+* best.overall.response	= Best Overall Response by RECIST
+* responder.flag.crpc = "Y" represents a best overall response of Complete or Partial Response
+* disease.control.flag = "Y" represents a best overall response of Complete or Partial Response or Stable Disease >= 6 months
+* cd8.converter.flag = "Y" represents a CD8 LOW subject with a baseline CD8 <15% and on-treatment CD8 >= 15%. "N" represents an on-treatment CD8 < 15% and "NA" represents subjects in the CD8 HIGH arm (>=15% at baseline) or those without an on-treatment biopsy.
+
+
+#### CyTOF: AMADEUS_primarycohort_cytof_percent-of-parent.csv
+* subject.id = Deidentified Subject ID
+* manuscript.id = Deidentified Subject ID reported in the manuscript
+* arm = Treatment Group (CD8 LOW or CD8 HIGH)
+* treatment = Treatment Regimen
+* tumor.type = Type of Cancer
+* timepoint.id = Timepoint of Blood Collection
+* cell.population.name = Cell Population
+* percent.of.parent = Abundance Value, measured as the Percentage of the Parent Population
+* best.overall.response	= Best Overall Response by RECIST
+* responder.flag.crpc = "Y" represents a best overall response of Complete or Partial Response
+* disease.control.flag = "Y" represents a best overall response of Complete or Partial Response or Stable Disease >= 6 months
+* cd8.converter.flag = "Y" represents a CD8 LOW subject with a baseline CD8 <15% and on-treatment CD8 >= 15%. "N" represents an on-treatment CD8 < 15% and "NA" represents subjects in the CD8 HIGH arm (>=15% at baseline) or those without an on-treatment biopsy.
+
+
+#### Whole Exome Sequencing - MSI and Tumor Mutational Burden: AMADEUS_primarycohort_msi_tmb.csv
+* subject.id = Deidentified Subject ID
+* manuscript.id = Deidentified Subject ID reported in the manuscript
+* arm = Treatment Group (CD8 LOW or CD8 HIGH)
+* treatment = Treatment Regimen
+* tumor.type = Type of Cancer
+* msi = MSI Classification
+* tmb = Tumor Mutational Burden, measured as Number of Mutations per Megabase
+* tmb.categories = TMB High/Low Classification
+* best.overall.response	= Best Overall Response by RECIST
+* responder.flag.crpc = "Y" represents a best overall response of Complete or Partial Response
+* disease.control.flag = "Y" represents a best overall response of Complete or Partial Response or Stable Disease >= 6 months
+* cd8.converter.flag = "Y" represents a CD8 LOW subject with a baseline CD8 <15% and on-treatment CD8 >= 15%. "N" represents an on-treatment CD8 < 15% and "NA" represents subjects in the CD8 HIGH arm (>=15% at baseline) or those without an on-treatment biopsy.
+
+
+#### Olink Serum Proteomics: AMADEUS_primarycohort_olink.csv
+* subject.id = Deidentified Subject ID
+* manuscript.id = Deidentified Subject ID reported in the manuscript
+* arm = Treatment Group (CD8 LOW or CD8 HIGH)
+* treatment = Treatment Regimen
+* tumor.type = Type of Cancer
+* timepoint.id = Timepoint of Blood Collection
+* protein.name = Name of Protein
+* npx = Protein Expression, measured as NPX Units
+* best.overall.response	= Best Overall Response by RECIST
+* responder.flag.crpc = "Y" represents a best overall response of Complete or Partial Response
+* disease.control.flag = "Y" represents a best overall response of Complete or Partial Response or Stable Disease >= 6 months
+* cd8.converter.flag = "Y" represents a CD8 LOW subject with a baseline CD8 <15% and on-treatment CD8 >= 15%. "N" represents an on-treatment CD8 < 15% and "NA" represents subjects in the CD8 HIGH arm (>=15% at baseline) or those without an on-treatment biopsy.
+
+
+#### TCR Sequencing: AMADEUS_primarycohort_tcr.csv
+* subject.id = Deidentified Subject ID
+* manuscript.id = Deidentified Subject ID reported in the manuscript
+* arm = Treatment Group (CD8 LOW or CD8 HIGH)
+* treatment = Treatment Regimen
+* tumor.type = Type of Cancer
+* sample.id = Biopsy Tissue Unique Sample ID
+* timepoint.id = Timepoint of Biopsy Collection
+* tra.trb = TCR Alpha (TRA) or TCR Beta (TRB) Sequence
+* tcr.id = TCR Sequence
+* count = Count
+* frequency = Frequency
+* best.overall.response	= Best Overall Response by RECIST
+* responder.flag.crpc = "Y" represents a best overall response of Complete or Partial Response
+* disease.control.flag = "Y" represents a best overall response of Complete or Partial Response or Stable Disease >= 6 months
+* cd8.converter.flag = "Y" represents a CD8 LOW subject with a baseline CD8 <15% and on-treatment CD8 >= 15%. "N" represents an on-treatment CD8 < 15% and "NA" represents subjects in the CD8 HIGH arm (>=15% at baseline) or those without an on-treatment biopsy.
+
+
+#### Vectra mIF Imaging: AMADEUS_primarycohort_Vectra.csv
+* subject.id = Deidentified Subject ID
+* manuscript.id = Deidentified Subject ID reported in the manuscript
+* arm = Treatment Group (CD8 LOW or CD8 HIGH)
+* treatment = Treatment Regimen
+* tumor.type = Type of Cancer
+* panel.id = Vectra Panel 
+* timepoint.id = Timepoint of Biopsy Collection
+* cell.population.name = Cell Population
+* percent.of.parent = Abundance Value, measured as the Percentage of the Parent Population
+* best.overall.response	= Best Overall Response by RECIST
+* responder.flag.crpc = "Y" represents a best overall response of Complete or Partial Response
+* disease.control.flag = "Y" represents a best overall response of Complete or Partial Response or Stable Disease >= 6 months
+* cd8.converter.flag = "Y" represents a CD8 LOW subject with a baseline CD8 <15% and on-treatment CD8 >= 15%. "N" represents an on-treatment CD8 < 15% and "NA" represents subjects in the CD8 HIGH arm (>=15% at baseline) or those without an on-treatment biopsy.
+
+
+#### X50 Flow Cytometry: AMADEUS_primarycohort_x50_percent-of-parent.csv
+* subject.id = Deidentified Subject ID
+* manuscript.id = Deidentified Subject ID reported in the manuscript
+* arm = Treatment Group (CD8 LOW or CD8 HIGH)
+* treatment = Treatment Regimen
+* tumor.type = Type of Cancer
+* timepoint.id = Timepoint of Blood Collection
+* cell.population.name = Cell Population
+* percent.of.parent = Abundance Value, measured as the Percentage of the Parent Population
+* best.overall.response	= Best Overall Response by RECIST
+* responder.flag.crpc = "Y" represents a best overall response of Complete or Partial Response
+* disease.control.flag = "Y" represents a best overall response of Complete or Partial Response or Stable Disease >= 6 months
+* cd8.converter.flag = "Y" represents a CD8 LOW subject with a baseline CD8 <15% and on-treatment CD8 >= 15%. "N" represents an on-treatment CD8 < 15% and "NA" represents subjects in the CD8 HIGH arm (>=15% at baseline) or those without an on-treatment biopsy.
+
+
