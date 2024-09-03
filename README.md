@@ -1,18 +1,13 @@
 # amadeus-trial-data
 
 
-Apostolia M. Tsimberidou, Farah A. Alayli, Kwame Okrah, Alexandra Drakaki, Danny 
-N. Khalil, Shivaani Kummar, Saad A. Khan, F. Stephen Hodi, David Y. Oh, Christopher 
-R. Cabanski, Shikha Gautam, Stefanie Meier, Meelad Amouzgar, Shannon M. Pfeiffer, 
-Robin Kageyama, EnJun Yang, Marko Spasic, Michael T. Tetzlaff, Wai Chin Foo, Travis 
-J. Hollmann, Yanyun Li, Matthew Adamow, Phillip Wong, Jonni S. Moore, Sharlene 
-Velichko, Richard O. Chen, Dinesh Kumar, Samantha Bucktrout, Ramy Ibrahim, Ute 
-Dugan, Lisa Salvador, Vanessa M. Hubbard-Lucey, Jill O’Donnell-Tormey, Sandra 
-Santulli-Marotto, Lisa H. Butterfield, Diane M. Da Silva, Justin Fairchild, Theresa 
-M. LaVallee, Lacey J. Padrón and Padmanee Sharma. Immunologic Signatures of 
-Response and Resistance to Nivolumab with Ipilimumab in Advanced Metastatic Cancer 
-from the AMADEUS Trial. Submitted.
-
+Tsimberidou AM, Alayli FA, Okrah K, Drakaki A, Khalil DN, Kummar S, Khan SA, Hodi FS, Oh DY, 
+Cabanski CR, Gautam S, Meier SL, Amouzgar M, Pfeiffer SM, Kageyama R, Yang E, Spasic M, 
+Tetzlaff MT, Foo WC, Hollmann TJ, Li Y, Adamow M, Wong P, Moore JS, Velichko S, Chen RO, 
+Kumar D, Bucktrout S, Ibrahim R, Dugan U, Salvador L, Hubbard-Lucey VM, O'Donnell-Tormey J, 
+Santulli-Marotto S, Butterfield LH, Da Silva DM, Fairchild J, LaVallee TM, Padrón LJ, Sharma P. 
+Immunologic signatures of response and resistance to nivolumab with ipilimumab in advanced 
+metastatic cancer. J Exp Med. 2024 Oct 7;221(10):e20240152. doi: 10.1084/jem.20240152. 
 
 
 This repo contains the select, processed clinical and translational data that was 
